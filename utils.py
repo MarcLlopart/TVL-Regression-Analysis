@@ -30,7 +30,7 @@ def get_tvl(chain : str , tvl_file : str):
     df_melted = df_melted[df_melted[protocol_name]==tvl_column]
 
     df_melted['Date'] = pd.to_datetime(df_melted['Date'], format="%d/%m/%Y")
-    df_melted = df_melted[df_melted['Date'] >= '01/01/2024']
+    df_melted = df_melted[df_melted['Date'] >= '12/05/2022']
 
     df_melted.reset_index(inplace=True, drop=True)
     df_melted = df_melted[['Date', chain]]
