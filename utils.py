@@ -74,8 +74,25 @@ def get_staking_rewards(staking_file : str):
     df['createdAt'] = pd.to_datetime(df['createdAt'])
     return df
 
+def get_staking_amounts(staking_file : str):
+    """ 
+    Input: json file with staking metrics
+    Output: Clean df with staking metrics
+    """
+    file_path = f'staked_amount/{staking_file}'
+    with open(file_path, 'r') as f:
+        json_data = json.load(f)
+    
+    metrics = json_data['data']['assets'][0]['metrics']
+    df = pd.DataFrame(metrics)
+    df['createdAt'] = df['createdAt'].str[:10]
+    df.rename(columns={'defaultValue': 'StakedAmount'}, inplace=True)
+    df['createdAt'] = pd.to_datetime(df['createdAt'])
+    return df
+
 def merge_df(tvl_df : pd.DataFrame , price_df : pd.DataFrame, 
-             stable_df: pd.DataFrame, staking_df: pd.DataFrame):
+             stable_df: pd.DataFrame, staking_df: pd.DataFrame,
+             stake_amount: pd.DataFrame):
     """ 
     Input: 2 dataframes to merge
     Output: merged df with all info
@@ -84,6 +101,8 @@ def merge_df(tvl_df : pd.DataFrame , price_df : pd.DataFrame,
     merged_df = tvl_df.merge(price_df, left_on='Date', right_on='snapped_at', how='left')
     merged_df = merged_df.merge(stable_df, left_on='Date', right_on='Date', how='left')
     merged_df = merged_df.merge(staking_df, left_on='Date', right_on='createdAt', how='left')
+    merged_df.drop('createdAt', axis=1, inplace=True)
+    merged_df = merged_df.merge(stake_amount, left_on='Date', right_on='createdAt', how='left')
     merged_df['Liquidity'] = merged_df['total_volume']/merged_df['market_cap'] * 100
     name = merged_df.columns[1]
     merged_df.rename(columns={name: 'TVL'}, inplace=True)

@@ -1,0 +1,3437 @@
+{
+    "data": {
+      "assets": [
+        {
+          "id": "5d34818ecb1d1f0007826c32",
+          "slug": "tezos",
+          "logoUrl": "https://cms.stakingrewards.com/wp-content/uploads/2021/02/tezos-logo-e1613657002768.jpg",
+          "metrics": [
+            {
+              "defaultValue": 695876600.745965,
+              "createdAt": "2022-05-12T22:15:16Z"
+            },
+            {
+              "defaultValue": 687210893.322115,
+              "createdAt": "2022-05-13T22:15:15Z"
+            },
+            {
+              "defaultValue": 687349370.060506,
+              "createdAt": "2022-05-14T22:15:15Z"
+            },
+            {
+              "defaultValue": 687118380.951603,
+              "createdAt": "2022-05-15T22:15:16Z"
+            },
+            {
+              "defaultValue": 687521126.91444,
+              "createdAt": "2022-05-16T22:15:19Z"
+            },
+            {
+              "defaultValue": 687406659.653067,
+              "createdAt": "2022-05-17T22:15:19Z"
+            },
+            {
+              "defaultValue": 687603941.142569,
+              "createdAt": "2022-05-18T22:15:19Z"
+            },
+            {
+              "defaultValue": 688072878.025433,
+              "createdAt": "2022-05-19T22:15:18Z"
+            },
+            {
+              "defaultValue": 690008215.908231,
+              "createdAt": "2022-05-20T22:15:18Z"
+            },
+            {
+              "defaultValue": 694779435.817724,
+              "createdAt": "2022-05-21T22:15:18Z"
+            },
+            {
+              "defaultValue": 694739909.932499,
+              "createdAt": "2022-05-22T22:15:18Z"
+            },
+            {
+              "defaultValue": 693581773.211702,
+              "createdAt": "2022-05-23T22:15:19Z"
+            },
+            {
+              "defaultValue": 693054322.690584,
+              "createdAt": "2022-05-24T22:15:18Z"
+            },
+            {
+              "defaultValue": 694689801.049536,
+              "createdAt": "2022-05-25T22:15:21Z"
+            },
+            {
+              "defaultValue": 698943883.971543,
+              "createdAt": "2022-05-26T22:15:18Z"
+            },
+            {
+              "defaultValue": 696439285.045168,
+              "createdAt": "2022-05-27T22:15:15Z"
+            },
+            {
+              "defaultValue": 697641684.113756,
+              "createdAt": "2022-05-28T22:15:16Z"
+            },
+            {
+              "defaultValue": 697573465.364179,
+              "createdAt": "2022-05-29T22:15:16Z"
+            },
+            {
+              "defaultValue": 697666688.747264,
+              "createdAt": "2022-05-30T22:15:15Z"
+            },
+            {
+              "defaultValue": 702484518.123367,
+              "createdAt": "2022-05-31T22:15:16Z"
+            },
+            {
+              "defaultValue": 700438313.82269,
+              "createdAt": "2022-06-01T22:15:17Z"
+            },
+            {
+              "defaultValue": 700304444.666524,
+              "createdAt": "2022-06-02T22:15:16Z"
+            },
+            {
+              "defaultValue": 700477157.493013,
+              "createdAt": "2022-06-03T22:15:16Z"
+            },
+            {
+              "defaultValue": 701224317.069445,
+              "createdAt": "2022-06-04T22:15:15Z"
+            },
+            {
+              "defaultValue": 701361508.537577,
+              "createdAt": "2022-06-05T22:15:17Z"
+            },
+            {
+              "defaultValue": 701415857.790249,
+              "createdAt": "2022-06-06T22:15:17Z"
+            },
+            {
+              "defaultValue": 701338721.873569,
+              "createdAt": "2022-06-07T22:15:16Z"
+            },
+            {
+              "defaultValue": 700203960.092871,
+              "createdAt": "2022-06-08T22:15:17Z"
+            },
+            {
+              "defaultValue": 700361113.049983,
+              "createdAt": "2022-06-09T22:15:16Z"
+            },
+            {
+              "defaultValue": 700356440.637194,
+              "createdAt": "2022-06-10T22:15:16Z"
+            },
+            {
+              "defaultValue": 702392707.797709,
+              "createdAt": "2022-06-11T22:15:16Z"
+            },
+            {
+              "defaultValue": 702056401.830385,
+              "createdAt": "2022-06-12T22:15:18Z"
+            },
+            {
+              "defaultValue": 702094998.992501,
+              "createdAt": "2022-06-13T22:15:16Z"
+            },
+            {
+              "defaultValue": 697239451.380336,
+              "createdAt": "2022-06-14T22:15:16Z"
+            },
+            {
+              "defaultValue": 696837775.525621,
+              "createdAt": "2022-06-15T22:15:17Z"
+            },
+            {
+              "defaultValue": 696697255.17753,
+              "createdAt": "2022-06-16T08:15:15Z"
+            },
+            {
+              "defaultValue": 695573267.447575,
+              "createdAt": "2022-06-17T22:15:15Z"
+            },
+            {
+              "defaultValue": 695681173.188914,
+              "createdAt": "2022-06-18T22:15:17Z"
+            },
+            {
+              "defaultValue": 696021075.222542,
+              "createdAt": "2022-06-19T22:15:16Z"
+            },
+            {
+              "defaultValue": 697061208.006807,
+              "createdAt": "2022-06-20T22:15:16Z"
+            },
+            {
+              "defaultValue": 698573355.718274,
+              "createdAt": "2022-06-21T22:15:16Z"
+            },
+            {
+              "defaultValue": 698270691.520033,
+              "createdAt": "2022-06-22T22:15:19Z"
+            },
+            {
+              "defaultValue": 698735237.972742,
+              "createdAt": "2022-06-23T22:15:22Z"
+            },
+            {
+              "defaultValue": 704019948.831763,
+              "createdAt": "2022-06-24T22:15:15Z"
+            },
+            {
+              "defaultValue": 704302163.852523,
+              "createdAt": "2022-06-25T22:15:17Z"
+            },
+            {
+              "defaultValue": 704270264.124592,
+              "createdAt": "2022-06-26T22:15:21Z"
+            },
+            {
+              "defaultValue": 704106018.611011,
+              "createdAt": "2022-06-27T22:15:18Z"
+            },
+            {
+              "defaultValue": 700314956.830371,
+              "createdAt": "2022-06-28T22:15:16Z"
+            },
+            {
+              "defaultValue": 700996678.68909,
+              "createdAt": "2022-06-29T22:15:16Z"
+            },
+            {
+              "defaultValue": 701081882.580844,
+              "createdAt": "2022-06-30T22:15:18Z"
+            },
+            {
+              "defaultValue": 701366678.682355,
+              "createdAt": "2022-07-01T22:15:18Z"
+            },
+            {
+              "defaultValue": 699538154.515433,
+              "createdAt": "2022-07-02T22:15:19Z"
+            },
+            {
+              "defaultValue": 700066187.621159,
+              "createdAt": "2022-07-03T22:15:16Z"
+            },
+            {
+              "defaultValue": 700248788.556511,
+              "createdAt": "2022-07-04T22:15:17Z"
+            },
+            {
+              "defaultValue": 701079423.231365,
+              "createdAt": "2022-07-05T22:15:16Z"
+            },
+            {
+              "defaultValue": 701437725.162563,
+              "createdAt": "2022-07-06T22:15:17Z"
+            },
+            {
+              "defaultValue": 701270587.559909,
+              "createdAt": "2022-07-07T22:15:16Z"
+            },
+            {
+              "defaultValue": 702219428.671056,
+              "createdAt": "2022-07-08T22:15:17Z"
+            },
+            {
+              "defaultValue": 703433497.729649,
+              "createdAt": "2022-07-09T22:15:17Z"
+            },
+            {
+              "defaultValue": 703592299.240757,
+              "createdAt": "2022-07-10T22:15:16Z"
+            },
+            {
+              "defaultValue": 703387996.958868,
+              "createdAt": "2022-07-11T22:15:17Z"
+            },
+            {
+              "defaultValue": 702806781.355492,
+              "createdAt": "2022-07-12T22:15:19Z"
+            },
+            {
+              "defaultValue": 689706228.737941,
+              "createdAt": "2022-07-13T22:15:18Z"
+            },
+            {
+              "defaultValue": 689147631.076793,
+              "createdAt": "2022-07-14T22:15:17Z"
+            },
+            {
+              "defaultValue": 689557201.959563,
+              "createdAt": "2022-07-15T22:15:18Z"
+            },
+            {
+              "defaultValue": 689712933.613598,
+              "createdAt": "2022-07-16T22:15:33Z"
+            },
+            {
+              "defaultValue": 689540622.044162,
+              "createdAt": "2022-07-17T22:15:15Z"
+            },
+            {
+              "defaultValue": 689547378.81969,
+              "createdAt": "2022-07-18T22:15:18Z"
+            },
+            {
+              "defaultValue": 690258660.331396,
+              "createdAt": "2022-07-19T22:15:18Z"
+            },
+            {
+              "defaultValue": 688418255.614559,
+              "createdAt": "2022-07-20T22:15:18Z"
+            },
+            {
+              "defaultValue": 688576222.492933,
+              "createdAt": "2022-07-21T22:15:19Z"
+            },
+            {
+              "defaultValue": 688541871.339739,
+              "createdAt": "2022-07-22T22:15:23Z"
+            },
+            {
+              "defaultValue": 688737915.356537,
+              "createdAt": "2022-07-23T22:15:19Z"
+            },
+            {
+              "defaultValue": 688755615.409805,
+              "createdAt": "2022-07-24T22:15:19Z"
+            },
+            {
+              "defaultValue": 689061001.459903,
+              "createdAt": "2022-07-25T22:15:19Z"
+            },
+            {
+              "defaultValue": 690035667.77162,
+              "createdAt": "2022-07-26T22:15:18Z"
+            },
+            {
+              "defaultValue": 691219693.456121,
+              "createdAt": "2022-07-27T22:15:21Z"
+            },
+            {
+              "defaultValue": 690174410.174229,
+              "createdAt": "2022-07-28T22:15:20Z"
+            },
+            {
+              "defaultValue": 689765194.013654,
+              "createdAt": "2022-07-29T22:15:21Z"
+            },
+            {
+              "defaultValue": 690307782.947528,
+              "createdAt": "2022-07-30T22:15:20Z"
+            },
+            {
+              "defaultValue": 691399386.59041,
+              "createdAt": "2022-07-31T22:15:22Z"
+            },
+            {
+              "defaultValue": 691148103.43069,
+              "createdAt": "2022-08-01T22:15:19Z"
+            },
+            {
+              "defaultValue": 690780938.139408,
+              "createdAt": "2022-08-02T22:15:23Z"
+            },
+            {
+              "defaultValue": 691649492.066641,
+              "createdAt": "2022-08-03T22:15:18Z"
+            },
+            {
+              "defaultValue": 691591096.032646,
+              "createdAt": "2022-08-04T22:15:21Z"
+            },
+            {
+              "defaultValue": 691912162.083118,
+              "createdAt": "2022-08-05T22:15:24Z"
+            },
+            {
+              "defaultValue": 692179758.330493,
+              "createdAt": "2022-08-06T22:15:19Z"
+            },
+            {
+              "defaultValue": 692207964.862072,
+              "createdAt": "2022-08-07T22:19:51Z"
+            },
+            {
+              "defaultValue": 691571248.147046,
+              "createdAt": "2022-08-08T22:15:18Z"
+            },
+            {
+              "defaultValue": 692393396.991514,
+              "createdAt": "2022-08-09T22:15:21Z"
+            },
+            {
+              "defaultValue": 692780653.889272,
+              "createdAt": "2022-08-10T22:15:21Z"
+            },
+            {
+              "defaultValue": 691875600.804646,
+              "createdAt": "2022-08-11T22:15:23Z"
+            },
+            {
+              "defaultValue": 692579179.271495,
+              "createdAt": "2022-08-12T22:15:18Z"
+            },
+            {
+              "defaultValue": 692626468.090129,
+              "createdAt": "2022-08-13T22:16:46Z"
+            },
+            {
+              "defaultValue": 691972323.945134,
+              "createdAt": "2022-08-14T22:15:24Z"
+            },
+            {
+              "defaultValue": 691816746.318004,
+              "createdAt": "2022-08-15T22:17:18Z"
+            },
+            {
+              "defaultValue": 692480409.895381,
+              "createdAt": "2022-08-16T23:24:24Z"
+            },
+            {
+              "defaultValue": 692422390.683833,
+              "createdAt": "2022-08-17T22:16:11Z"
+            },
+            {
+              "defaultValue": 692448266.38982,
+              "createdAt": "2022-08-18T22:15:27Z"
+            },
+            {
+              "defaultValue": 693305974.968442,
+              "createdAt": "2022-08-19T22:15:22Z"
+            },
+            {
+              "defaultValue": 693390282.887628,
+              "createdAt": "2022-08-20T22:15:31Z"
+            },
+            {
+              "defaultValue": 693129168.052557,
+              "createdAt": "2022-08-21T22:15:36Z"
+            },
+            {
+              "defaultValue": 693144969.821086,
+              "createdAt": "2022-08-22T22:15:23Z"
+            },
+            {
+              "defaultValue": 695223074.922068,
+              "createdAt": "2022-08-23T22:15:22Z"
+            },
+            {
+              "defaultValue": 696545589.767846,
+              "createdAt": "2022-08-24T22:15:30Z"
+            },
+            {
+              "defaultValue": 696600021.60848,
+              "createdAt": "2022-08-25T22:15:32Z"
+            },
+            {
+              "defaultValue": 695999170.480377,
+              "createdAt": "2022-08-26T22:15:22Z"
+            },
+            {
+              "defaultValue": 696224937.495581,
+              "createdAt": "2022-08-27T22:16:41Z"
+            },
+            {
+              "defaultValue": 696484612.076684,
+              "createdAt": "2022-08-28T22:18:03Z"
+            },
+            {
+              "defaultValue": 695625434.484126,
+              "createdAt": "2022-08-29T22:15:27Z"
+            },
+            {
+              "defaultValue": 695295187.817928,
+              "createdAt": "2022-08-30T22:16:19Z"
+            },
+            {
+              "defaultValue": 695174925.764928,
+              "createdAt": "2022-08-31T12:15:28Z"
+            },
+            {
+              "defaultValue": 695477553.410237,
+              "createdAt": "2022-09-01T22:15:32Z"
+            },
+            {
+              "defaultValue": 694944270.036836,
+              "createdAt": "2022-09-02T22:15:47Z"
+            },
+            {
+              "defaultValue": 694863479.277578,
+              "createdAt": "2022-09-03T22:16:43Z"
+            },
+            {
+              "defaultValue": 694806441.25804,
+              "createdAt": "2022-09-04T22:18:40Z"
+            },
+            {
+              "defaultValue": 693826509.844663,
+              "createdAt": "2022-09-05T22:20:24Z"
+            },
+            {
+              "defaultValue": 694779864.391359,
+              "createdAt": "2022-09-06T22:15:24Z"
+            },
+            {
+              "defaultValue": 694967649.46379,
+              "createdAt": "2022-09-07T22:15:39Z"
+            },
+            {
+              "defaultValue": 695270800.992999,
+              "createdAt": "2022-09-08T22:20:15Z"
+            },
+            {
+              "defaultValue": 694467185.952046,
+              "createdAt": "2022-09-09T22:15:39Z"
+            },
+            {
+              "defaultValue": 694640695.441992,
+              "createdAt": "2022-09-10T22:15:48Z"
+            },
+            {
+              "defaultValue": 694371466.88371,
+              "createdAt": "2022-09-11T22:16:56Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-12T22:16:42Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-13T22:15:33Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-14T22:15:43Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-15T22:16:47Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-16T22:15:29Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-17T22:15:43Z"
+            },
+            {
+              "defaultValue": 694475343.513345,
+              "createdAt": "2022-09-18T22:19:54Z"
+            },
+            {
+              "defaultValue": 698755747.078146,
+              "createdAt": "2022-09-19T22:15:21Z"
+            },
+            {
+              "defaultValue": 698755747.078146,
+              "createdAt": "2022-09-20T22:17:02Z"
+            },
+            {
+              "defaultValue": 698755747.078146,
+              "createdAt": "2022-09-21T22:24:19Z"
+            },
+            {
+              "defaultValue": 698755747.078146,
+              "createdAt": "2022-09-22T22:23:58Z"
+            },
+            {
+              "defaultValue": 693201426.295381,
+              "createdAt": "2022-09-23T22:23:15Z"
+            },
+            {
+              "defaultValue": 693258849.6347566,
+              "createdAt": "2022-09-24T22:15:20Z"
+            },
+            {
+              "defaultValue": 693476001.810266,
+              "createdAt": "2022-09-25T22:20:58Z"
+            },
+            {
+              "defaultValue": 693460387.4560705,
+              "createdAt": "2022-09-26T22:16:58Z"
+            },
+            {
+              "defaultValue": 693443815.2315089,
+              "createdAt": "2022-09-27T22:21:48Z"
+            },
+            {
+              "defaultValue": 693354544.7180128,
+              "createdAt": "2022-09-28T22:46:15Z"
+            },
+            {
+              "defaultValue": 693243258.5793297,
+              "createdAt": "2022-09-29T22:30:35Z"
+            },
+            {
+              "defaultValue": 693779596.0255654,
+              "createdAt": "2022-09-30T22:15:22Z"
+            },
+            {
+              "defaultValue": 693845176.1356589,
+              "createdAt": "2022-10-01T22:15:21Z"
+            },
+            {
+              "defaultValue": 693927121.4769211,
+              "createdAt": "2022-10-02T22:15:19Z"
+            },
+            {
+              "defaultValue": 693816384.7198731,
+              "createdAt": "2022-10-03T22:23:46Z"
+            },
+            {
+              "defaultValue": 693669810.1626803,
+              "createdAt": "2022-10-04T22:21:59Z"
+            },
+            {
+              "defaultValue": 693538508.1527944,
+              "createdAt": "2022-10-05T22:21:50Z"
+            },
+            {
+              "defaultValue": 692116433.9670864,
+              "createdAt": "2022-10-06T22:33:50Z"
+            },
+            {
+              "defaultValue": 693736467.7176247,
+              "createdAt": "2022-10-07T22:48:06Z"
+            },
+            {
+              "defaultValue": 693963674.050807,
+              "createdAt": "2022-10-08T22:25:43Z"
+            },
+            {
+              "defaultValue": 693810478.1028502,
+              "createdAt": "2022-10-09T22:27:44Z"
+            },
+            {
+              "defaultValue": 694028913.9192921,
+              "createdAt": "2022-10-10T22:32:23Z"
+            },
+            {
+              "defaultValue": 693529664.312746,
+              "createdAt": "2022-10-11T22:28:21Z"
+            },
+            {
+              "defaultValue": 693784840.714738,
+              "createdAt": "2022-10-12T22:29:01Z"
+            },
+            {
+              "defaultValue": 694296790.6030688,
+              "createdAt": "2022-10-13T22:28:43Z"
+            },
+            {
+              "defaultValue": 693936843.6409556,
+              "createdAt": "2022-10-14T22:27:59Z"
+            },
+            {
+              "defaultValue": 694036927.7762623,
+              "createdAt": "2022-10-15T22:27:12Z"
+            },
+            {
+              "defaultValue": 693998483.9190654,
+              "createdAt": "2022-10-16T22:26:53Z"
+            },
+            {
+              "defaultValue": 694036675.4917198,
+              "createdAt": "2022-10-17T22:28:01Z"
+            },
+            {
+              "defaultValue": 694163308.0146866,
+              "createdAt": "2022-10-18T22:34:03Z"
+            },
+            {
+              "defaultValue": 694394487.4447976,
+              "createdAt": "2022-10-19T22:41:22Z"
+            },
+            {
+              "defaultValue": 694597260.9536437,
+              "createdAt": "2022-10-20T22:30:50Z"
+            },
+            {
+              "defaultValue": 694343933.6698474,
+              "createdAt": "2022-10-21T22:29:59Z"
+            },
+            {
+              "defaultValue": 694723099.5406294,
+              "createdAt": "2022-10-22T22:39:43Z"
+            },
+            {
+              "defaultValue": 694846201.5996283,
+              "createdAt": "2022-10-23T22:31:51Z"
+            },
+            {
+              "defaultValue": 694648818.8552152,
+              "createdAt": "2022-10-24T22:34:28Z"
+            },
+            {
+              "defaultValue": 693878307.5980291,
+              "createdAt": "2022-10-25T22:35:56.501291Z"
+            },
+            {
+              "defaultValue": 693762996.1125599,
+              "createdAt": "2022-10-26T22:31:22.707816Z"
+            },
+            {
+              "defaultValue": 694156653.1074929,
+              "createdAt": "2022-10-27T22:33:00.432187Z"
+            },
+            {
+              "defaultValue": 693889090.1574752,
+              "createdAt": "2022-10-28T22:30:22.58777Z"
+            },
+            {
+              "defaultValue": 693831589.9046898,
+              "createdAt": "2022-10-29T22:21:34.675548Z"
+            },
+            {
+              "defaultValue": 694667808.3116295,
+              "createdAt": "2022-10-30T22:21:55.071014Z"
+            },
+            {
+              "defaultValue": 694299476.1857902,
+              "createdAt": "2022-10-31T22:20:39.654951Z"
+            },
+            {
+              "defaultValue": 692369140.1154617,
+              "createdAt": "2022-11-01T22:01:24.467565Z"
+            },
+            {
+              "defaultValue": 692308624.2177161,
+              "createdAt": "2022-11-02T22:00:20.336988Z"
+            },
+            {
+              "defaultValue": 688249459.664387,
+              "createdAt": "2022-11-03T12:01:25.549143Z"
+            },
+            {
+              "defaultValue": 689062286.224811,
+              "createdAt": "2022-11-04T12:00:18.940498Z"
+            },
+            {
+              "defaultValue": 688852787.1952456,
+              "createdAt": "2022-11-05T12:09:35.289176Z"
+            },
+            {
+              "defaultValue": 687996465.8280598,
+              "createdAt": "2022-11-06T12:01:07.269926Z"
+            },
+            {
+              "defaultValue": 688226547.4718478,
+              "createdAt": "2022-11-07T12:10:30.106875Z"
+            },
+            {
+              "defaultValue": 687693307.4462036,
+              "createdAt": "2022-11-08T12:01:38.266137Z"
+            },
+            {
+              "defaultValue": 686922430.9422387,
+              "createdAt": "2022-11-09T12:04:08.338456Z"
+            },
+            {
+              "defaultValue": 680623847.3068621,
+              "createdAt": "2022-11-10T12:05:49.962888Z"
+            },
+            {
+              "defaultValue": 681708078.3047363,
+              "createdAt": "2022-11-11T12:02:06.423169Z"
+            },
+            {
+              "defaultValue": 694047517.6258518,
+              "createdAt": "2022-11-12T12:02:55.475621Z"
+            },
+            {
+              "defaultValue": 693318779.240904,
+              "createdAt": "2022-11-13T12:01:47.344321Z"
+            },
+            {
+              "defaultValue": 693018436.1528945,
+              "createdAt": "2022-11-14T12:01:21.371084Z"
+            },
+            {
+              "defaultValue": 690520240.0313153,
+              "createdAt": "2022-11-15T12:06:29.786133Z"
+            },
+            {
+              "defaultValue": 690669637.8347129,
+              "createdAt": "2022-11-16T12:00:17.827534Z"
+            },
+            {
+              "defaultValue": 689453359.3880084,
+              "createdAt": "2022-11-17T12:06:09.389816Z"
+            },
+            {
+              "defaultValue": 709647787.5775582,
+              "createdAt": "2022-11-18T12:02:07.204786Z"
+            },
+            {
+              "defaultValue": 719845212.7149029,
+              "createdAt": "2022-11-19T12:04:13.365848Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-20T00:10:40.088078Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-21T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-22T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-23T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-24T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-25T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-26T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-27T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-28T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-29T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-11-30T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-01T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-02T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-03T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-04T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-05T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-06T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-07T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-08T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-09T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-10T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-11T00:00:00Z"
+            },
+            {
+              "defaultValue": 719844552.9240389,
+              "createdAt": "2022-12-12T00:00:00Z"
+            },
+            {
+              "defaultValue": 723988524.8314923,
+              "createdAt": "2022-12-13T12:16:36.86051Z"
+            },
+            {
+              "defaultValue": 720629505.8089474,
+              "createdAt": "2022-12-14T12:42:49.548944Z"
+            },
+            {
+              "defaultValue": 723284284.566816,
+              "createdAt": "2022-12-15T12:32:29.25529Z"
+            },
+            {
+              "defaultValue": 724653516.916385,
+              "createdAt": "2022-12-16T12:01:07.622759Z"
+            },
+            {
+              "defaultValue": 728426119.2797779,
+              "createdAt": "2022-12-17T12:03:49.633897Z"
+            },
+            {
+              "defaultValue": 727756033.9325075,
+              "createdAt": "2022-12-18T12:06:29.895965Z"
+            },
+            {
+              "defaultValue": 728034943.2919878,
+              "createdAt": "2022-12-19T12:03:07.652225Z"
+            },
+            {
+              "defaultValue": 727822778.3855696,
+              "createdAt": "2022-12-20T12:00:29.633118Z"
+            },
+            {
+              "defaultValue": 728033181.2238475,
+              "createdAt": "2022-12-21T12:05:04.255025Z"
+            },
+            {
+              "defaultValue": 728015773.0959185,
+              "createdAt": "2022-12-22T17:26:04.597528Z"
+            },
+            {
+              "defaultValue": 727762215.2164382,
+              "createdAt": "2022-12-23T11:18:14.340876Z"
+            },
+            {
+              "defaultValue": 727888377.588708,
+              "createdAt": "2022-12-24T12:04:17.716023Z"
+            },
+            {
+              "defaultValue": 728028366.4741261,
+              "createdAt": "2022-12-25T12:00:45.870101Z"
+            },
+            {
+              "defaultValue": 728368068.716446,
+              "createdAt": "2022-12-26T12:04:52.097136Z"
+            },
+            {
+              "defaultValue": 727701123.5478966,
+              "createdAt": "2022-12-27T12:05:06.833288Z"
+            },
+            {
+              "defaultValue": 727689852.325997,
+              "createdAt": "2022-12-28T12:00:43.124744Z"
+            },
+            {
+              "defaultValue": 727781087.3923004,
+              "createdAt": "2022-12-29T12:03:35.484413Z"
+            },
+            {
+              "defaultValue": 727367888.5046386,
+              "createdAt": "2022-12-30T12:00:37.570905Z"
+            },
+            {
+              "defaultValue": 727444011.2843041,
+              "createdAt": "2022-12-31T12:00:42.152311Z"
+            },
+            {
+              "defaultValue": 726818815.4304067,
+              "createdAt": "2023-01-01T12:06:46.945739Z"
+            },
+            {
+              "defaultValue": 726906613.2155675,
+              "createdAt": "2023-01-02T12:06:08.207791Z"
+            },
+            {
+              "defaultValue": 726798135.3289155,
+              "createdAt": "2023-01-03T12:05:02.053739Z"
+            },
+            {
+              "defaultValue": 725407770.2248359,
+              "createdAt": "2023-01-04T12:02:08.721182Z"
+            },
+            {
+              "defaultValue": 725444731.6560488,
+              "createdAt": "2023-01-05T22:20:19.128863Z"
+            },
+            {
+              "defaultValue": 725893780.0212173,
+              "createdAt": "2023-01-06T22:02:09.185813Z"
+            },
+            {
+              "defaultValue": 725683368.7673559,
+              "createdAt": "2023-01-07T22:03:14.650219Z"
+            },
+            {
+              "defaultValue": 725784000.3582908,
+              "createdAt": "2023-01-08T12:12:19.075356Z"
+            },
+            {
+              "defaultValue": 726084285.3171107,
+              "createdAt": "2023-01-09T22:20:16.023603Z"
+            },
+            {
+              "defaultValue": 726222944.1539224,
+              "createdAt": "2023-01-10T22:01:25.362156Z"
+            },
+            {
+              "defaultValue": 726033651.6398237,
+              "createdAt": "2023-01-11T22:02:18.289129Z"
+            },
+            {
+              "defaultValue": 725945566.6478083,
+              "createdAt": "2023-01-12T22:01:18.894823Z"
+            },
+            {
+              "defaultValue": 725962415.5344372,
+              "createdAt": "2023-01-13T22:10:17.990237Z"
+            },
+            {
+              "defaultValue": 727619859.5775839,
+              "createdAt": "2023-01-14T22:01:21.907501Z"
+            },
+            {
+              "defaultValue": 728451328.4542911,
+              "createdAt": "2023-01-15T22:20:21.384392Z"
+            },
+            {
+              "defaultValue": 728306052.4764411,
+              "createdAt": "2023-01-16T22:00:21.870575Z"
+            },
+            {
+              "defaultValue": 728859821.4931476,
+              "createdAt": "2023-01-17T22:01:16.380336Z"
+            },
+            {
+              "defaultValue": 728988270.8022041,
+              "createdAt": "2023-01-18T22:10:19.780731Z"
+            },
+            {
+              "defaultValue": 729538938.8769108,
+              "createdAt": "2023-01-19T22:01:06.246117Z"
+            },
+            {
+              "defaultValue": 725069374.6952004,
+              "createdAt": "2023-01-20T22:03:40.68343Z"
+            },
+            {
+              "defaultValue": 724955501.2639722,
+              "createdAt": "2023-01-21T16:09:39.815625Z"
+            },
+            {
+              "defaultValue": 725052168.2574435,
+              "createdAt": "2023-01-22T21:26:19.681611Z"
+            },
+            {
+              "defaultValue": 725115922.1791826,
+              "createdAt": "2023-01-23T22:10:19.221071Z"
+            },
+            {
+              "defaultValue": 724986781.3067755,
+              "createdAt": "2023-01-24T22:20:15.527214Z"
+            },
+            {
+              "defaultValue": 725010850.97464,
+              "createdAt": "2023-01-25T22:00:38.929681Z"
+            },
+            {
+              "defaultValue": 724661749.5743203,
+              "createdAt": "2023-01-26T22:30:17.700541Z"
+            },
+            {
+              "defaultValue": 724341579.0567634,
+              "createdAt": "2023-01-27T22:05:24.339326Z"
+            },
+            {
+              "defaultValue": 724325351.9813061,
+              "createdAt": "2023-01-28T22:03:30.231848Z"
+            },
+            {
+              "defaultValue": 724284387.2529312,
+              "createdAt": "2023-01-29T22:18:59.025561Z"
+            },
+            {
+              "defaultValue": 724504671.2937642,
+              "createdAt": "2023-01-30T22:05:35.113125Z"
+            },
+            {
+              "defaultValue": 723696293.3815536,
+              "createdAt": "2023-01-31T22:20:19.497096Z"
+            },
+            {
+              "defaultValue": 723958217.6992453,
+              "createdAt": "2023-02-01T22:00:18.18284Z"
+            },
+            {
+              "defaultValue": 724011246.9247258,
+              "createdAt": "2023-02-02T22:10:36.852075Z"
+            },
+            {
+              "defaultValue": 725333226.1285372,
+              "createdAt": "2023-02-03T22:05:25.091185Z"
+            },
+            {
+              "defaultValue": 725352982.0180255,
+              "createdAt": "2023-02-04T22:02:10.557743Z"
+            },
+            {
+              "defaultValue": 725062253.713718,
+              "createdAt": "2023-02-05T22:02:57.321741Z"
+            },
+            {
+              "defaultValue": 724994007.1640013,
+              "createdAt": "2023-02-06T22:01:59.295615Z"
+            },
+            {
+              "defaultValue": 725289097.9733957,
+              "createdAt": "2023-02-07T22:04:21.786985Z"
+            },
+            {
+              "defaultValue": 725629501.2306992,
+              "createdAt": "2023-02-08T22:27:18.961393Z"
+            },
+            {
+              "defaultValue": 725750372.7960869,
+              "createdAt": "2023-02-09T22:03:48.702037Z"
+            },
+            {
+              "defaultValue": 719660728.5240968,
+              "createdAt": "2023-02-10T22:11:41.396449Z"
+            },
+            {
+              "defaultValue": 719686752.4849458,
+              "createdAt": "2023-02-11T22:25:57.970672Z"
+            },
+            {
+              "defaultValue": 719961925.4432302,
+              "createdAt": "2023-02-12T22:07:46.055466Z"
+            },
+            {
+              "defaultValue": 720060334.3638096,
+              "createdAt": "2023-02-13T22:37:59.610558Z"
+            },
+            {
+              "defaultValue": 720273652.4968895,
+              "createdAt": "2023-02-14T22:49:34.625824Z"
+            },
+            {
+              "defaultValue": 721465400.3159661,
+              "createdAt": "2023-02-15T22:03:18.652754Z"
+            },
+            {
+              "defaultValue": 721490536.8948677,
+              "createdAt": "2023-02-16T22:03:24.885493Z"
+            },
+            {
+              "defaultValue": 722324465.5367383,
+              "createdAt": "2023-02-17T22:44:40.200237Z"
+            },
+            {
+              "defaultValue": 722487000.3205322,
+              "createdAt": "2023-02-18T22:04:04.911076Z"
+            },
+            {
+              "defaultValue": 722859001.8208388,
+              "createdAt": "2023-02-19T22:19:20.193877Z"
+            },
+            {
+              "defaultValue": 723376577.7359747,
+              "createdAt": "2023-02-20T22:24:04.362539Z"
+            },
+            {
+              "defaultValue": 723529551.704875,
+              "createdAt": "2023-02-21T22:13:37.479202Z"
+            },
+            {
+              "defaultValue": 723948486.1132292,
+              "createdAt": "2023-02-22T23:43:33.419526Z"
+            },
+            {
+              "defaultValue": 722157891.8945392,
+              "createdAt": "2023-02-23T22:08:26.079063Z"
+            },
+            {
+              "defaultValue": 722625112.9230543,
+              "createdAt": "2023-02-24T22:05:57.956724Z"
+            },
+            {
+              "defaultValue": 722653827.7585372,
+              "createdAt": "2023-02-25T22:00:24.344403Z"
+            },
+            {
+              "defaultValue": 722961707.8686008,
+              "createdAt": "2023-02-26T22:45:35.97164Z"
+            },
+            {
+              "defaultValue": 721841552.1196218,
+              "createdAt": "2023-02-27T23:05:26.95111Z"
+            },
+            {
+              "defaultValue": 721910445.6942627,
+              "createdAt": "2023-02-28T22:29:36.082458Z"
+            },
+            {
+              "defaultValue": 721526644.4579121,
+              "createdAt": "2023-03-01T22:00:19.816771Z"
+            },
+            {
+              "defaultValue": 721617271.5746586,
+              "createdAt": "2023-03-02T22:09:15.214569Z"
+            },
+            {
+              "defaultValue": 721768982.1447654,
+              "createdAt": "2023-03-03T22:43:33.168175Z"
+            },
+            {
+              "defaultValue": 721972040.7166393,
+              "createdAt": "2023-03-04T22:08:02.292915Z"
+            },
+            {
+              "defaultValue": 723717361.8841819,
+              "createdAt": "2023-03-05T22:00:22.328795Z"
+            },
+            {
+              "defaultValue": 723963947.9284618,
+              "createdAt": "2023-03-06T22:20:21.667538Z"
+            },
+            {
+              "defaultValue": 705522750.711979,
+              "createdAt": "2023-03-07T23:00:57.315167Z"
+            },
+            {
+              "defaultValue": 705372224.5415916,
+              "createdAt": "2023-03-08T22:20:28.701678Z"
+            },
+            {
+              "defaultValue": 706195970.0715218,
+              "createdAt": "2023-03-09T22:48:49.087577Z"
+            },
+            {
+              "defaultValue": 706281413.017226,
+              "createdAt": "2023-03-10T22:14:17.5616Z"
+            },
+            {
+              "defaultValue": 706417178.6319841,
+              "createdAt": "2023-03-11T22:36:40.363405Z"
+            },
+            {
+              "defaultValue": 706737425.4975433,
+              "createdAt": "2023-03-12T22:01:19.965068Z"
+            },
+            {
+              "defaultValue": 706600375.4799423,
+              "createdAt": "2023-03-13T22:04:21.855547Z"
+            },
+            {
+              "defaultValue": 706806599.0768722,
+              "createdAt": "2023-03-14T22:02:12.930004Z"
+            },
+            {
+              "defaultValue": 702246967.2236292,
+              "createdAt": "2023-03-15T22:00:25.660263Z"
+            },
+            {
+              "defaultValue": 702655839.7781045,
+              "createdAt": "2023-03-16T22:36:53.008708Z"
+            },
+            {
+              "defaultValue": 702387550.6778865,
+              "createdAt": "2023-03-17T22:29:18.730477Z"
+            },
+            {
+              "defaultValue": 696358397.1972,
+              "createdAt": "2023-03-18T22:00:45.466711Z"
+            },
+            {
+              "defaultValue": 696393504.4219507,
+              "createdAt": "2023-03-19T22:18:49.60381Z"
+            },
+            {
+              "defaultValue": 696830084.025111,
+              "createdAt": "2023-03-20T22:02:24.735968Z"
+            },
+            {
+              "defaultValue": 698714400.8766237,
+              "createdAt": "2023-03-21T22:03:11.989577Z"
+            },
+            {
+              "defaultValue": 698212669.6692652,
+              "createdAt": "2023-03-22T22:01:56.01555Z"
+            },
+            {
+              "defaultValue": 698517308.9531898,
+              "createdAt": "2023-03-23T22:04:40.895924Z"
+            },
+            {
+              "defaultValue": 696527840.5062597,
+              "createdAt": "2023-03-24T23:06:54.5837Z"
+            },
+            {
+              "defaultValue": 695776162.2752061,
+              "createdAt": "2023-03-25T22:09:13.419438Z"
+            },
+            {
+              "defaultValue": 695784671.0957115,
+              "createdAt": "2023-03-26T00:02:03.217598Z"
+            },
+            {
+              "defaultValue": 695840658.7291975,
+              "createdAt": "2023-03-27T22:15:46.129916Z"
+            },
+            {
+              "defaultValue": 695797120.6677264,
+              "createdAt": "2023-03-28T22:03:02.537827Z"
+            },
+            {
+              "defaultValue": 694022888.3033768,
+              "createdAt": "2023-03-29T22:03:34.943745Z"
+            },
+            {
+              "defaultValue": 692746824.3121605,
+              "createdAt": "2023-03-30T22:01:51.482528Z"
+            },
+            {
+              "defaultValue": 691823766.2998837,
+              "createdAt": "2023-03-31T22:04:56.361095Z"
+            },
+            {
+              "defaultValue": 691397190.423363,
+              "createdAt": "2023-04-01T22:07:16.111566Z"
+            },
+            {
+              "defaultValue": 691583203.7495741,
+              "createdAt": "2023-04-02T22:01:17.237348Z"
+            },
+            {
+              "defaultValue": 691176332.0261664,
+              "createdAt": "2023-04-03T22:02:14.607538Z"
+            },
+            {
+              "defaultValue": 691102376.0842133,
+              "createdAt": "2023-04-04T22:02:03.016765Z"
+            },
+            {
+              "defaultValue": 693417076.9887645,
+              "createdAt": "2023-04-05T22:02:43.544904Z"
+            },
+            {
+              "defaultValue": 694565077.9960947,
+              "createdAt": "2023-04-06T22:08:00.543536Z"
+            },
+            {
+              "defaultValue": 694997322.0620719,
+              "createdAt": "2023-04-07T22:03:23.353467Z"
+            },
+            {
+              "defaultValue": 695080458.7600303,
+              "createdAt": "2023-04-08T22:03:08.743467Z"
+            },
+            {
+              "defaultValue": 695403749.7444973,
+              "createdAt": "2023-04-09T22:01:13.181402Z"
+            },
+            {
+              "defaultValue": 695345739.4130014,
+              "createdAt": "2023-04-10T22:24:42.828172Z"
+            },
+            {
+              "defaultValue": 695136883.650769,
+              "createdAt": "2023-04-11T22:00:46.676216Z"
+            },
+            {
+              "defaultValue": 695009275.039889,
+              "createdAt": "2023-04-12T22:06:01.634573Z"
+            },
+            {
+              "defaultValue": 695213259.1401799,
+              "createdAt": "2023-04-13T22:01:10.748553Z"
+            },
+            {
+              "defaultValue": 695608935.901154,
+              "createdAt": "2023-04-14T22:03:56.673709Z"
+            },
+            {
+              "defaultValue": 695759711.6792462,
+              "createdAt": "2023-04-15T22:00:46.858123Z"
+            },
+            {
+              "defaultValue": 695668476.3308662,
+              "createdAt": "2023-04-16T22:03:59.73938Z"
+            },
+            {
+              "defaultValue": 695261721.7414204,
+              "createdAt": "2023-04-17T22:22:40.895322Z"
+            },
+            {
+              "defaultValue": 695296036.4792076,
+              "createdAt": "2023-04-18T22:00:43.408243Z"
+            },
+            {
+              "defaultValue": 695238384.5808746,
+              "createdAt": "2023-04-19T22:04:23.640971Z"
+            },
+            {
+              "defaultValue": 695591997.0869466,
+              "createdAt": "2023-04-20T22:03:45.467237Z"
+            },
+            {
+              "defaultValue": 695525938.8927512,
+              "createdAt": "2023-04-21T22:03:54.419365Z"
+            },
+            {
+              "defaultValue": 695851003.2096454,
+              "createdAt": "2023-04-22T22:01:36.310713Z"
+            },
+            {
+              "defaultValue": 695661360.4142028,
+              "createdAt": "2023-04-23T22:04:56.2756Z"
+            },
+            {
+              "defaultValue": 695703448.3912696,
+              "createdAt": "2023-04-24T22:01:36.786059Z"
+            },
+            {
+              "defaultValue": 694204987.3036681,
+              "createdAt": "2023-04-25T22:55:53.158105Z"
+            },
+            {
+              "defaultValue": 694114433.5845584,
+              "createdAt": "2023-04-26T22:03:59.516914Z"
+            },
+            {
+              "defaultValue": 694137953.6329813,
+              "createdAt": "2023-04-27T22:06:36.614786Z"
+            },
+            {
+              "defaultValue": 694326874.173105,
+              "createdAt": "2023-04-28T22:03:53.402671Z"
+            },
+            {
+              "defaultValue": 694109873.9695106,
+              "createdAt": "2023-04-29T19:08:43.535056Z"
+            },
+            {
+              "defaultValue": 694119372.9786841,
+              "createdAt": "2023-04-30T20:12:05.780079Z"
+            },
+            {
+              "defaultValue": 694270805.3211235,
+              "createdAt": "2023-05-01T22:03:42.830609Z"
+            },
+            {
+              "defaultValue": 694294463.2740954,
+              "createdAt": "2023-05-02T22:01:11.363741Z"
+            },
+            {
+              "defaultValue": 694576462.3605216,
+              "createdAt": "2023-05-03T22:04:43.49198Z"
+            },
+            {
+              "defaultValue": 693637730.2292819,
+              "createdAt": "2023-05-04T22:02:54.637368Z"
+            },
+            {
+              "defaultValue": 693250910.5140666,
+              "createdAt": "2023-05-05T22:04:53.085643Z"
+            },
+            {
+              "defaultValue": 693503800.6235621,
+              "createdAt": "2023-05-06T22:08:47.02685Z"
+            },
+            {
+              "defaultValue": 693627251.8091985,
+              "createdAt": "2023-05-07T22:02:36.641213Z"
+            },
+            {
+              "defaultValue": 694616124.0896575,
+              "createdAt": "2023-05-08T22:01:18.248738Z"
+            },
+            {
+              "defaultValue": 694929928.4482961,
+              "createdAt": "2023-05-09T22:04:17.012408Z"
+            },
+            {
+              "defaultValue": 694983647.490613,
+              "createdAt": "2023-05-10T22:09:12.393218Z"
+            },
+            {
+              "defaultValue": 695320696.2282702,
+              "createdAt": "2023-05-11T22:02:50.106454Z"
+            },
+            {
+              "defaultValue": 695795809.2524325,
+              "createdAt": "2023-05-12T16:04:16.261882Z"
+            },
+            {
+              "defaultValue": 695795809.2524325,
+              "createdAt": "2023-05-13T00:00:00Z"
+            },
+            {
+              "defaultValue": 695795809.2524325,
+              "createdAt": "2023-05-14T00:00:00Z"
+            },
+            {
+              "defaultValue": 695938862.863457,
+              "createdAt": "2023-05-15T12:10:33.069227Z"
+            },
+            {
+              "defaultValue": 680102012.2531873,
+              "createdAt": "2023-05-16T12:17:26.686599Z"
+            },
+            {
+              "defaultValue": 680194022.3494475,
+              "createdAt": "2023-05-17T12:09:05.461732Z"
+            },
+            {
+              "defaultValue": 696173626.1877729,
+              "createdAt": "2023-05-18T12:11:31.396802Z"
+            },
+            {
+              "defaultValue": 695611669.9299755,
+              "createdAt": "2023-05-19T12:11:23.855677Z"
+            },
+            {
+              "defaultValue": 696759790.7626808,
+              "createdAt": "2023-05-20T12:15:05.514083Z"
+            },
+            {
+              "defaultValue": 696985286.8360621,
+              "createdAt": "2023-05-21T19:30:06.25613Z"
+            },
+            {
+              "defaultValue": 696947111.9820808,
+              "createdAt": "2023-05-22T12:06:49.413969Z"
+            },
+            {
+              "defaultValue": 669474612.3665124,
+              "createdAt": "2023-05-23T12:20:04.373521Z"
+            },
+            {
+              "defaultValue": 669301424.1500583,
+              "createdAt": "2023-05-24T12:05:04.636444Z"
+            },
+            {
+              "defaultValue": 669522390.8938173,
+              "createdAt": "2023-05-25T12:14:07.106386Z"
+            },
+            {
+              "defaultValue": 669616424.0095634,
+              "createdAt": "2023-05-26T12:04:35.348021Z"
+            },
+            {
+              "defaultValue": 670109164.376065,
+              "createdAt": "2023-05-27T12:03:13.797185Z"
+            },
+            {
+              "defaultValue": 670207709.7648538,
+              "createdAt": "2023-05-28T12:14:58.934143Z"
+            },
+            {
+              "defaultValue": 670639535.1617445,
+              "createdAt": "2023-05-29T12:30:11.385728Z"
+            },
+            {
+              "defaultValue": 670699361.762994,
+              "createdAt": "2023-05-30T12:04:18.566901Z"
+            },
+            {
+              "defaultValue": 670628790.5620733,
+              "createdAt": "2023-05-31T00:14:41.052298Z"
+            },
+            {
+              "defaultValue": 682144239.1166055,
+              "createdAt": "2023-06-01T12:01:20.986289Z"
+            },
+            {
+              "defaultValue": 682064678.5514146,
+              "createdAt": "2023-06-02T12:04:49.650297Z"
+            },
+            {
+              "defaultValue": 682394613.1573056,
+              "createdAt": "2023-06-03T12:09:55.533134Z"
+            },
+            {
+              "defaultValue": 682605431.4106954,
+              "createdAt": "2023-06-04T12:03:51.697507Z"
+            },
+            {
+              "defaultValue": 682750929.1926532,
+              "createdAt": "2023-06-05T12:03:22.6437Z"
+            },
+            {
+              "defaultValue": 683974362.2353268,
+              "createdAt": "2023-06-06T12:04:46.482847Z"
+            },
+            {
+              "defaultValue": 683851785.1774398,
+              "createdAt": "2023-06-07T12:15:53.382917Z"
+            },
+            {
+              "defaultValue": 682371370.8597106,
+              "createdAt": "2023-06-08T12:06:36.182217Z"
+            },
+            {
+              "defaultValue": 682510960.9374673,
+              "createdAt": "2023-06-09T12:05:26.315157Z"
+            },
+            {
+              "defaultValue": 682559294.987932,
+              "createdAt": "2023-06-10T12:05:55.71237Z"
+            },
+            {
+              "defaultValue": 682498085.4874362,
+              "createdAt": "2023-06-11T12:02:55.76967Z"
+            },
+            {
+              "defaultValue": 678973516.0109351,
+              "createdAt": "2023-06-12T12:05:21.688154Z"
+            },
+            {
+              "defaultValue": 679197262.6488922,
+              "createdAt": "2023-06-13T12:06:55.916277Z"
+            },
+            {
+              "defaultValue": 676102002.1151172,
+              "createdAt": "2023-06-14T12:39:40.177511Z"
+            },
+            {
+              "defaultValue": 675609188.0421247,
+              "createdAt": "2023-06-15T12:01:17.65403Z"
+            },
+            {
+              "defaultValue": 671282809.8822861,
+              "createdAt": "2023-06-16T12:06:35.994348Z"
+            },
+            {
+              "defaultValue": 671037215.6283675,
+              "createdAt": "2023-06-17T00:43:19.774936Z"
+            },
+            {
+              "defaultValue": 671493561.1572901,
+              "createdAt": "2023-06-18T12:13:51.536174Z"
+            },
+            {
+              "defaultValue": 671645665.148031,
+              "createdAt": "2023-06-19T12:07:45.151875Z"
+            },
+            {
+              "defaultValue": 676119041.4605845,
+              "createdAt": "2023-06-20T12:00:27.783302Z"
+            },
+            {
+              "defaultValue": 676240026.9833055,
+              "createdAt": "2023-06-21T12:46:59.670835Z"
+            },
+            {
+              "defaultValue": 675689095.9747322,
+              "createdAt": "2023-06-22T12:01:02.356879Z"
+            },
+            {
+              "defaultValue": 675397902.916443,
+              "createdAt": "2023-06-23T12:31:34.618603Z"
+            },
+            {
+              "defaultValue": 676163266.1110356,
+              "createdAt": "2023-06-24T12:31:24.70653Z"
+            },
+            {
+              "defaultValue": 676196642.6297916,
+              "createdAt": "2023-06-25T12:06:51.200232Z"
+            },
+            {
+              "defaultValue": 679423104.3727208,
+              "createdAt": "2023-06-26T12:07:43.754697Z"
+            },
+            {
+              "defaultValue": 679551873.832345,
+              "createdAt": "2023-06-27T12:09:48.920735Z"
+            },
+            {
+              "defaultValue": 679787123.5532057,
+              "createdAt": "2023-06-28T12:14:14.394158Z"
+            },
+            {
+              "defaultValue": 679454100.0710372,
+              "createdAt": "2023-06-29T12:06:36.891258Z"
+            },
+            {
+              "defaultValue": 679793824.1082708,
+              "createdAt": "2023-06-30T12:18:04.106078Z"
+            },
+            {
+              "defaultValue": 679872949.7421094,
+              "createdAt": "2023-07-01T12:08:16.693027Z"
+            },
+            {
+              "defaultValue": 679985103.7638458,
+              "createdAt": "2023-07-02T12:07:46.428728Z"
+            },
+            {
+              "defaultValue": 680367028.2946767,
+              "createdAt": "2023-07-03T12:07:00.436421Z"
+            },
+            {
+              "defaultValue": 680436657.5654005,
+              "createdAt": "2023-07-04T12:19:43.472571Z"
+            },
+            {
+              "defaultValue": 680328972.1661232,
+              "createdAt": "2023-07-05T12:08:22.466584Z"
+            },
+            {
+              "defaultValue": 680483212.7540953,
+              "createdAt": "2023-07-06T00:07:54.132667Z"
+            },
+            {
+              "defaultValue": 681297116.7644533,
+              "createdAt": "2023-07-07T12:14:23.887071Z"
+            },
+            {
+              "defaultValue": 681281533.7780461,
+              "createdAt": "2023-07-08T12:14:07.900046Z"
+            },
+            {
+              "defaultValue": 680583330.9753288,
+              "createdAt": "2023-07-09T12:03:25.477351Z"
+            },
+            {
+              "defaultValue": 681722759.6626815,
+              "createdAt": "2023-07-10T12:07:32.615283Z"
+            },
+            {
+              "defaultValue": 680640221.924994,
+              "createdAt": "2023-07-11T12:06:49.374819Z"
+            },
+            {
+              "defaultValue": 679980775.036985,
+              "createdAt": "2023-07-12T12:17:06.834289Z"
+            },
+            {
+              "defaultValue": 678756415.3991139,
+              "createdAt": "2023-07-13T12:09:53.51672Z"
+            },
+            {
+              "defaultValue": 678163415.8699244,
+              "createdAt": "2023-07-14T12:07:03.726564Z"
+            },
+            {
+              "defaultValue": 679659059.9262116,
+              "createdAt": "2023-07-15T12:07:21.152006Z"
+            },
+            {
+              "defaultValue": 678635461.5548054,
+              "createdAt": "2023-07-16T12:20:08.49891Z"
+            },
+            {
+              "defaultValue": 679223153.2374685,
+              "createdAt": "2023-07-17T12:00:34.437737Z"
+            },
+            {
+              "defaultValue": 680255938.6169734,
+              "createdAt": "2023-07-18T12:08:33.077Z"
+            },
+            {
+              "defaultValue": 678876789.5562181,
+              "createdAt": "2023-07-19T12:01:58.24449Z"
+            },
+            {
+              "defaultValue": 679282458.9200631,
+              "createdAt": "2023-07-20T12:07:03.651712Z"
+            },
+            {
+              "defaultValue": 676211572.8812567,
+              "createdAt": "2023-07-21T12:09:16.428321Z"
+            },
+            {
+              "defaultValue": 676070841.1875584,
+              "createdAt": "2023-07-22T12:40:01.237555Z"
+            },
+            {
+              "defaultValue": 676050552.0134505,
+              "createdAt": "2023-07-23T12:07:59.535433Z"
+            },
+            {
+              "defaultValue": 676027318.175896,
+              "createdAt": "2023-07-24T12:00:20.323621Z"
+            },
+            {
+              "defaultValue": 678511298.4971553,
+              "createdAt": "2023-07-25T12:07:08.534048Z"
+            },
+            {
+              "defaultValue": 678035065.9439733,
+              "createdAt": "2023-07-26T12:08:42.123107Z"
+            },
+            {
+              "defaultValue": 678332947.877543,
+              "createdAt": "2023-07-27T12:08:28.473406Z"
+            },
+            {
+              "defaultValue": 678418451.6426018,
+              "createdAt": "2023-07-28T12:18:41.964489Z"
+            },
+            {
+              "defaultValue": 678699329.2477369,
+              "createdAt": "2023-07-29T12:19:48.922481Z"
+            },
+            {
+              "defaultValue": 678734847.1731393,
+              "createdAt": "2023-07-30T12:08:33.66065Z"
+            },
+            {
+              "defaultValue": 679061798.6406051,
+              "createdAt": "2023-07-31T12:20:20.99757Z"
+            },
+            {
+              "defaultValue": 679414152.0423503,
+              "createdAt": "2023-08-01T12:08:48.300525Z"
+            },
+            {
+              "defaultValue": 679582968.1570581,
+              "createdAt": "2023-08-02T12:08:44.351908Z"
+            },
+            {
+              "defaultValue": 679712216.5548673,
+              "createdAt": "2023-08-03T12:06:49.376955Z"
+            },
+            {
+              "defaultValue": 679531231.8799475,
+              "createdAt": "2023-08-04T12:03:54.442885Z"
+            },
+            {
+              "defaultValue": 679739946.4344939,
+              "createdAt": "2023-08-05T12:10:25.25863Z"
+            },
+            {
+              "defaultValue": 679857935.7977676,
+              "createdAt": "2023-08-06T12:03:20.188176Z"
+            },
+            {
+              "defaultValue": 680277288.0453355,
+              "createdAt": "2023-08-07T12:06:33.979374Z"
+            },
+            {
+              "defaultValue": 646676014.1888428,
+              "createdAt": "2023-08-08T12:10:41.866351Z"
+            },
+            {
+              "defaultValue": 680125076.5827466,
+              "createdAt": "2023-08-09T12:03:53.877135Z"
+            },
+            {
+              "defaultValue": 679402421.9981654,
+              "createdAt": "2023-08-10T12:05:24.935666Z"
+            },
+            {
+              "defaultValue": 678602311.0448476,
+              "createdAt": "2023-08-11T12:04:10.434342Z"
+            },
+            {
+              "defaultValue": 678893372.2545929,
+              "createdAt": "2023-08-12T12:04:12.528076Z"
+            },
+            {
+              "defaultValue": 679327346.372639,
+              "createdAt": "2023-08-13T12:00:29.206551Z"
+            },
+            {
+              "defaultValue": 679316384.2927076,
+              "createdAt": "2023-08-14T12:04:06.017381Z"
+            },
+            {
+              "defaultValue": 678969311.7534173,
+              "createdAt": "2023-08-15T12:16:39.939519Z"
+            },
+            {
+              "defaultValue": 679753568.8856587,
+              "createdAt": "2023-08-16T12:00:26.044524Z"
+            },
+            {
+              "defaultValue": 679945025.004049,
+              "createdAt": "2023-08-17T12:00:21.248892Z"
+            },
+            {
+              "defaultValue": 680634340.8462813,
+              "createdAt": "2023-08-18T12:25:01.291044Z"
+            },
+            {
+              "defaultValue": 693627684.0562176,
+              "createdAt": "2023-08-19T12:11:03.350375Z"
+            },
+            {
+              "defaultValue": 694199228.7832474,
+              "createdAt": "2023-08-20T12:06:18.580214Z"
+            },
+            {
+              "defaultValue": 694414034.9237106,
+              "createdAt": "2023-08-21T12:01:52.606217Z"
+            },
+            {
+              "defaultValue": 695345803.0178773,
+              "createdAt": "2023-08-22T12:01:07.979226Z"
+            },
+            {
+              "defaultValue": 694091307.7890501,
+              "createdAt": "2023-08-23T12:05:03.238884Z"
+            },
+            {
+              "defaultValue": 694350101.7217656,
+              "createdAt": "2023-08-24T12:05:13.198284Z"
+            },
+            {
+              "defaultValue": 695229534.7887118,
+              "createdAt": "2023-08-25T12:06:11.601781Z"
+            },
+            {
+              "defaultValue": 695425159.6941838,
+              "createdAt": "2023-08-26T12:19:40.98603Z"
+            },
+            {
+              "defaultValue": 695633539.1749401,
+              "createdAt": "2023-08-27T12:02:33.154695Z"
+            },
+            {
+              "defaultValue": 695736758.3419998,
+              "createdAt": "2023-08-28T12:04:58.500432Z"
+            },
+            {
+              "defaultValue": 696051020.2183349,
+              "createdAt": "2023-08-29T12:16:47.255278Z"
+            },
+            {
+              "defaultValue": 696009183.1060892,
+              "createdAt": "2023-08-30T12:04:12.043271Z"
+            },
+            {
+              "defaultValue": 696112694.9250531,
+              "createdAt": "2023-08-31T12:01:29.223853Z"
+            },
+            {
+              "defaultValue": 696358937.2577912,
+              "createdAt": "2023-09-01T12:07:55.429314Z"
+            },
+            {
+              "defaultValue": 696676482.5235335,
+              "createdAt": "2023-09-02T12:05:50.301511Z"
+            },
+            {
+              "defaultValue": 696776765.0498884,
+              "createdAt": "2023-09-03T12:04:30.697221Z"
+            },
+            {
+              "defaultValue": 696728725.5086733,
+              "createdAt": "2023-09-04T12:10:19.353094Z"
+            },
+            {
+              "defaultValue": 696805281.7020046,
+              "createdAt": "2023-09-05T12:05:36.72983Z"
+            },
+            {
+              "defaultValue": 696883134.8751607,
+              "createdAt": "2023-09-06T12:16:04.862103Z"
+            },
+            {
+              "defaultValue": 696470569.0902971,
+              "createdAt": "2023-09-07T12:05:36.947098Z"
+            },
+            {
+              "defaultValue": 696690003.097707,
+              "createdAt": "2023-09-08T12:00:18.918563Z"
+            },
+            {
+              "defaultValue": 696406138.3803569,
+              "createdAt": "2023-09-09T12:05:39.474291Z"
+            },
+            {
+              "defaultValue": 696949232.5122352,
+              "createdAt": "2023-09-10T12:05:12.172771Z"
+            },
+            {
+              "defaultValue": 697054317.3398176,
+              "createdAt": "2023-09-11T12:05:10.384496Z"
+            },
+            {
+              "defaultValue": 697111901.0485866,
+              "createdAt": "2023-09-12T12:03:01.385888Z"
+            },
+            {
+              "defaultValue": 696985009.6593535,
+              "createdAt": "2023-09-13T12:08:29.275798Z"
+            },
+            {
+              "defaultValue": 696983786.1205504,
+              "createdAt": "2023-09-14T12:12:50.170384Z"
+            },
+            {
+              "defaultValue": 697013277.1144452,
+              "createdAt": "2023-09-15T12:05:41.528115Z"
+            },
+            {
+              "defaultValue": 697509276.3174324,
+              "createdAt": "2023-09-16T12:08:25.653583Z"
+            },
+            {
+              "defaultValue": 697749960.6295193,
+              "createdAt": "2023-09-17T12:00:51.338154Z"
+            },
+            {
+              "defaultValue": 697756037.633359,
+              "createdAt": "2023-09-18T12:00:36.440447Z"
+            },
+            {
+              "defaultValue": 698706944.7124078,
+              "createdAt": "2023-09-19T12:01:34.125937Z"
+            },
+            {
+              "defaultValue": 698698267.2887785,
+              "createdAt": "2023-09-20T12:05:24.642469Z"
+            },
+            {
+              "defaultValue": 698900084.9054815,
+              "createdAt": "2023-09-21T12:06:10.303872Z"
+            },
+            {
+              "defaultValue": 699094291.9958515,
+              "createdAt": "2023-09-22T12:13:15.027239Z"
+            },
+            {
+              "defaultValue": 698635078.0445005,
+              "createdAt": "2023-09-23T12:03:57.217864Z"
+            },
+            {
+                "defaultValue": 698707813.0334204,
+                "createdAt": "2023-09-24T12:01:57.841097Z"
+              },
+              {
+                "defaultValue": 698913584.2566837,
+                "createdAt": "2023-09-25T12:10:51.494395Z"
+              },
+              {
+                "defaultValue": 698750525.6981527,
+                "createdAt": "2023-09-26T12:10:51.947382Z"
+              },
+              {
+                "defaultValue": 698856171.5507278,
+                "createdAt": "2023-09-27T12:10:36.020173Z"
+              },
+              {
+                "defaultValue": 699715366.0687304,
+                "createdAt": "2023-09-28T12:01:47.969301Z"
+              },
+              {
+                "defaultValue": 699985204.4227171,
+                "createdAt": "2023-09-29T12:10:21.469814Z"
+              },
+              {
+                "defaultValue": 700126946.9840086,
+                "createdAt": "2023-09-30T12:07:57.75523Z"
+              },
+              {
+                "defaultValue": 700822055.559571,
+                "createdAt": "2023-10-01T12:21:08.990565Z"
+              },
+              {
+                "defaultValue": 700525646.5410869,
+                "createdAt": "2023-10-02T12:07:55.833236Z"
+              },
+              {
+                "defaultValue": 700753884.1424625,
+                "createdAt": "2023-10-03T12:02:07.499119Z"
+              },
+              {
+                "defaultValue": 700759793.6182389,
+                "createdAt": "2023-10-04T12:00:24.848698Z"
+              },
+              {
+                "defaultValue": 700778850.8050746,
+                "createdAt": "2023-10-05T12:18:20.717832Z"
+              },
+              {
+                "defaultValue": 700822751.34083,
+                "createdAt": "2023-10-06T12:02:18.468441Z"
+              },
+              {
+                "defaultValue": 700889713.2749356,
+                "createdAt": "2023-10-07T12:06:59.269138Z"
+              },
+              {
+                "defaultValue": 700984132.551432,
+                "createdAt": "2023-10-08T12:10:12.284175Z"
+              },
+              {
+                "defaultValue": 701178021.9244412,
+                "createdAt": "2023-10-09T12:02:27.256971Z"
+              },
+              {
+                "defaultValue": 701166450.205604,
+                "createdAt": "2023-10-10T12:04:10.955235Z"
+              },
+              {
+                "defaultValue": 692356720.4511786,
+                "createdAt": "2023-10-11T12:00:27.384788Z"
+              },
+              {
+                "defaultValue": 692471549.3008386,
+                "createdAt": "2023-10-12T12:12:07.358309Z"
+              },
+              {
+                "defaultValue": 698106065.16897,
+                "createdAt": "2023-10-13T12:07:19.743982Z"
+              },
+              {
+                "defaultValue": 698347250.88595,
+                "createdAt": "2023-10-14T12:00:33.124339Z"
+              },
+              {
+                "defaultValue": 700995904.1054327,
+                "createdAt": "2023-10-15T12:10:32.46462Z"
+              },
+              {
+                "defaultValue": 701204445.3793193,
+                "createdAt": "2023-10-16T12:00:21.110622Z"
+              },
+              {
+                "defaultValue": 701253175.8704066,
+                "createdAt": "2023-10-17T12:07:04.501785Z"
+              },
+              {
+                "defaultValue": 700965248.7116661,
+                "createdAt": "2023-10-18T12:12:20.969797Z"
+              },
+              {
+                "defaultValue": 700890471.7546408,
+                "createdAt": "2023-10-19T12:04:13.131425Z"
+              },
+              {
+                "defaultValue": 699831583.8528651,
+                "createdAt": "2023-10-20T12:01:38.755835Z"
+              },
+              {
+                "defaultValue": 696072254.1163757,
+                "createdAt": "2023-10-21T12:10:07.705491Z"
+              },
+              {
+                "defaultValue": 696242531.8506963,
+                "createdAt": "2023-10-22T12:10:23.24856Z"
+              },
+              {
+                "defaultValue": 699718475.8970768,
+                "createdAt": "2023-10-23T12:12:16.986626Z"
+              },
+              {
+                "defaultValue": 699385132.1661397,
+                "createdAt": "2023-10-24T12:14:59.410951Z"
+              },
+              {
+                "defaultValue": 699250989.3682098,
+                "createdAt": "2023-10-25T12:09:08.414314Z"
+              },
+              {
+                "defaultValue": 698318923.9230868,
+                "createdAt": "2023-10-26T12:04:17.91943Z"
+              },
+              {
+                "defaultValue": 697432363.7872835,
+                "createdAt": "2023-10-27T12:10:13.439205Z"
+              },
+              {
+                "defaultValue": 697555884.7594255,
+                "createdAt": "2023-10-28T12:13:36.12906Z"
+              },
+              {
+                "defaultValue": 698191089.1947676,
+                "createdAt": "2023-10-29T12:20:26.245694Z"
+              },
+              {
+                "defaultValue": 698474824.3298701,
+                "createdAt": "2023-10-30T12:16:18.966143Z"
+              },
+              {
+                "defaultValue": 699313554.3686739,
+                "createdAt": "2023-10-31T12:15:32.388052Z"
+              },
+              {
+                "defaultValue": 699563636.2510644,
+                "createdAt": "2023-11-01T21:20:22.396333Z"
+              },
+              {
+                "defaultValue": 699875797.9432064,
+                "createdAt": "2023-11-02T12:14:59.792589Z"
+              },
+              {
+                "defaultValue": 700275605.2867563,
+                "createdAt": "2023-11-03T12:02:50.800028Z"
+              },
+              {
+                "defaultValue": 699895541.4600843,
+                "createdAt": "2023-11-04T12:30:27.814849Z"
+              },
+              {
+                "defaultValue": 700562770.0666214,
+                "createdAt": "2023-11-05T12:18:36.081305Z"
+              },
+              {
+                "defaultValue": 699170562.2682632,
+                "createdAt": "2023-11-06T22:03:21.521472Z"
+              },
+              {
+                "defaultValue": 699571529.1341146,
+                "createdAt": "2023-11-07T22:04:03.300528Z"
+              },
+              {
+                "defaultValue": 695293558.450132,
+                "createdAt": "2023-11-08T22:02:45.37291Z"
+              },
+              {
+                "defaultValue": 693225556.5510919,
+                "createdAt": "2023-11-09T22:05:07.262338Z"
+              },
+              {
+                "defaultValue": 696092548.5539352,
+                "createdAt": "2023-11-10T14:02:32.57523Z"
+              },
+              {
+                "defaultValue": 696092548.5539352,
+                "createdAt": "2023-11-11T00:00:00Z"
+              },
+              {
+                "defaultValue": 696287748.9355311,
+                "createdAt": "2023-11-12T22:02:38.329109Z"
+              },
+              {
+                "defaultValue": 696401165.3653218,
+                "createdAt": "2023-11-13T06:02:27.524729Z"
+              },
+              {
+                "defaultValue": 692470342.3441918,
+                "createdAt": "2023-11-14T20:02:47.496491Z"
+              },
+              {
+                "defaultValue": 692491128.6171589,
+                "createdAt": "2023-11-15T22:04:23.975202Z"
+              },
+              {
+                "defaultValue": 692465373.0027572,
+                "createdAt": "2023-11-16T22:03:19.320371Z"
+              },
+              {
+                "defaultValue": 692469266.2825294,
+                "createdAt": "2023-11-17T22:03:29.297889Z"
+              },
+              {
+                "defaultValue": 692282526.8608011,
+                "createdAt": "2023-11-18T22:02:35.793618Z"
+              },
+              {
+                "defaultValue": 692271599.5987694,
+                "createdAt": "2023-11-19T22:03:59.021738Z"
+              },
+              {
+                "defaultValue": 693079922.708716,
+                "createdAt": "2023-11-20T22:02:45.007979Z"
+              },
+              {
+                "defaultValue": 689488364.8510119,
+                "createdAt": "2023-11-21T22:02:54.748296Z"
+              },
+              {
+                "defaultValue": 689256372.5494632,
+                "createdAt": "2023-11-22T22:02:53.776586Z"
+              },
+              {
+                "defaultValue": 689744682.0514643,
+                "createdAt": "2023-11-23T20:02:43.079583Z"
+              },
+              {
+                "defaultValue": 690021951.5692828,
+                "createdAt": "2023-11-24T20:02:50.633274Z"
+              },
+              {
+                "defaultValue": 690203855.8029568,
+                "createdAt": "2023-11-25T22:05:37.496135Z"
+              },
+              {
+                "defaultValue": 690856114.9955093,
+                "createdAt": "2023-11-26T22:02:59.473343Z"
+              },
+              {
+                "defaultValue": 690943815.7211806,
+                "createdAt": "2023-11-27T22:03:52.821388Z"
+              },
+              {
+                "defaultValue": 691067116.164202,
+                "createdAt": "2023-11-28T18:04:25.991898Z"
+              },
+              {
+                "defaultValue": 691775802.3961974,
+                "createdAt": "2023-11-29T22:04:18.091362Z"
+              },
+              {
+                "defaultValue": 692066358.034137,
+                "createdAt": "2023-11-30T22:03:56.388041Z"
+              },
+              {
+                "defaultValue": 692107778.5460027,
+                "createdAt": "2023-12-01T22:03:36.489224Z"
+              },
+              {
+                "defaultValue": 692454286.3967335,
+                "createdAt": "2023-12-02T22:03:56.587181Z"
+              },
+              {
+                "defaultValue": 692255826.4242003,
+                "createdAt": "2023-12-03T22:04:22.424426Z"
+              },
+              {
+                "defaultValue": 692341185.4746869,
+                "createdAt": "2023-12-04T22:03:31.922904Z"
+              },
+              {
+                "defaultValue": 690896594.7948307,
+                "createdAt": "2023-12-05T22:05:10.96632Z"
+              },
+              {
+                "defaultValue": 691563907.4314013,
+                "createdAt": "2023-12-06T22:04:05.081518Z"
+              },
+              {
+                "defaultValue": 691786983.5541042,
+                "createdAt": "2023-12-07T22:04:35.275683Z"
+              },
+              {
+                "defaultValue": 691906956.5078408,
+                "createdAt": "2023-12-08T22:04:26.835625Z"
+              },
+              {
+                "defaultValue": 692480364.0004505,
+                "createdAt": "2023-12-09T22:07:22.893246Z"
+              },
+              {
+                "defaultValue": 692319109.1463932,
+                "createdAt": "2023-12-10T22:07:15.443335Z"
+              },
+              {
+                "defaultValue": 693063314.0153191,
+                "createdAt": "2023-12-11T22:04:50.77731Z"
+              },
+              {
+                "defaultValue": 693514858.6785109,
+                "createdAt": "2023-12-12T22:03:55.475408Z"
+              },
+              {
+                "defaultValue": 693801050.1957635,
+                "createdAt": "2023-12-13T22:03:50.114276Z"
+              },
+              {
+                "defaultValue": 694494844.4162598,
+                "createdAt": "2023-12-14T22:08:14.557377Z"
+              },
+              {
+                "defaultValue": 694087078.8557836,
+                "createdAt": "2023-12-15T22:04:03.725421Z"
+              },
+              {
+                "defaultValue": 694396675.881069,
+                "createdAt": "2023-12-16T22:05:44.584029Z"
+              },
+              {
+                "defaultValue": 694571845.8597598,
+                "createdAt": "2023-12-17T22:05:25.820095Z"
+              },
+              {
+                "defaultValue": 694305172.270921,
+                "createdAt": "2023-12-18T22:04:02.893464Z"
+              },
+              {
+                "defaultValue": 693568285.1216288,
+                "createdAt": "2023-12-19T22:04:18.105285Z"
+              },
+              {
+                "defaultValue": 693606638.1590009,
+                "createdAt": "2023-12-20T22:05:41.893148Z"
+              },
+              {
+                "defaultValue": 692705805.617789,
+                "createdAt": "2023-12-21T22:05:48.142114Z"
+              },
+              {
+                "defaultValue": 689582589.2323434,
+                "createdAt": "2023-12-22T22:05:30.388473Z"
+              },
+              {
+                "defaultValue": 689865102.6393182,
+                "createdAt": "2023-12-23T22:04:13.408677Z"
+              },
+              {
+                "defaultValue": 689885155.4844258,
+                "createdAt": "2023-12-24T22:05:17.397265Z"
+              },
+              {
+                "defaultValue": 690151918.7178441,
+                "createdAt": "2023-12-25T22:05:48.058592Z"
+              },
+              {
+                "defaultValue": 690422750.8747013,
+                "createdAt": "2023-12-26T22:05:45.840022Z"
+              },
+              {
+                "defaultValue": 690326242.2031069,
+                "createdAt": "2023-12-27T22:06:03.223305Z"
+              },
+              {
+                "defaultValue": 691292271.0959393,
+                "createdAt": "2023-12-28T22:05:10.345641Z"
+              },
+              {
+                "defaultValue": 691089270.1962852,
+                "createdAt": "2023-12-29T22:05:32.401529Z"
+              },
+              {
+                "defaultValue": 690566782.1482688,
+                "createdAt": "2023-12-30T22:05:22.431039Z"
+              },
+              {
+                "defaultValue": 690421540.7962579,
+                "createdAt": "2023-12-31T22:05:41.951622Z"
+              },
+              {
+                "defaultValue": 690468880.6913009,
+                "createdAt": "2024-01-01T22:05:31.130863Z"
+              },
+              {
+                "defaultValue": 690809148.0804741,
+                "createdAt": "2024-01-02T22:06:10.011596Z"
+              },
+              {
+                "defaultValue": 690387515.8525112,
+                "createdAt": "2024-01-03T22:07:24.429593Z"
+              },
+              {
+                "defaultValue": 690475709.2852353,
+                "createdAt": "2024-01-04T22:04:29.164394Z"
+              },
+              {
+                "defaultValue": 691518034.0497756,
+                "createdAt": "2024-01-05T22:06:16.920509Z"
+              },
+              {
+                "defaultValue": 691723111.4754218,
+                "createdAt": "2024-01-06T22:04:41.244948Z"
+              },
+              {
+                "defaultValue": 691442217.7700065,
+                "createdAt": "2024-01-07T22:04:18.147971Z"
+              },
+              {
+                "defaultValue": 691285075.9221939,
+                "createdAt": "2024-01-08T22:08:45.671359Z"
+              },
+              {
+                "defaultValue": 691388634.7462257,
+                "createdAt": "2024-01-09T22:05:28.0987Z"
+              },
+              {
+                "defaultValue": 691543681.1194881,
+                "createdAt": "2024-01-10T22:05:23.676107Z"
+              },
+              {
+                "defaultValue": 689650993.9252981,
+                "createdAt": "2024-01-11T22:08:01.248363Z"
+              },
+              {
+                "defaultValue": 689693143.4127039,
+                "createdAt": "2024-01-12T22:06:17.112512Z"
+              },
+              {
+                "defaultValue": 690162413.3618158,
+                "createdAt": "2024-01-13T22:04:13.005346Z"
+              },
+              {
+                "defaultValue": 690299843.4456491,
+                "createdAt": "2024-01-14T22:05:33.580676Z"
+              },
+              {
+                "defaultValue": 690289034.8149056,
+                "createdAt": "2024-01-15T22:05:32.278633Z"
+              },
+              {
+                "defaultValue": 681205950.0892899,
+                "createdAt": "2024-01-16T22:07:06.382742Z"
+              },
+              {
+                "defaultValue": 675831052.7823663,
+                "createdAt": "2024-01-17T22:07:19.151838Z"
+              },
+              {
+                "defaultValue": 675827515.0067528,
+                "createdAt": "2024-01-18T22:04:08.36118Z"
+              },
+              {
+                "defaultValue": 676247940.1505214,
+                "createdAt": "2024-01-19T22:07:16.033953Z"
+              },
+              {
+                "defaultValue": 673775990.2203901,
+                "createdAt": "2024-01-20T22:04:05.841807Z"
+              },
+              {
+                "defaultValue": 673961244.5785025,
+                "createdAt": "2024-01-21T22:03:58.864689Z"
+              },
+              {
+                "defaultValue": 673942206.7175709,
+                "createdAt": "2024-01-22T22:04:50.935436Z"
+              },
+              {
+                "defaultValue": 674200938.8225942,
+                "createdAt": "2024-01-23T22:08:16.115768Z"
+              },
+              {
+                "defaultValue": 674539064.5884609,
+                "createdAt": "2024-01-24T22:07:34.724586Z"
+              },
+              {
+                "defaultValue": 674809489.1806585,
+                "createdAt": "2024-01-25T22:08:13.069276Z"
+              },
+              {
+                "defaultValue": 675243576.6611315,
+                "createdAt": "2024-01-26T20:07:48.662983Z"
+              },
+              {
+                "defaultValue": 675357715.8888506,
+                "createdAt": "2024-01-27T22:08:04.99994Z"
+              },
+              {
+                "defaultValue": 675636871.0437293,
+                "createdAt": "2024-01-28T22:04:45.003786Z"
+              },
+              {
+                "defaultValue": 676725286.2187864,
+                "createdAt": "2024-01-29T22:08:08.694246Z"
+              },
+              {
+                "defaultValue": 677228217.1047689,
+                "createdAt": "2024-01-30T22:08:24.1081Z"
+              },
+              {
+                "defaultValue": 677469880.7298168,
+                "createdAt": "2024-01-31T22:07:53.19718Z"
+              },
+              {
+                "defaultValue": 677548620.1390098,
+                "createdAt": "2024-02-01T22:08:02.992993Z"
+              },
+              {
+                "defaultValue": 677986299.9059039,
+                "createdAt": "2024-02-02T22:08:26.591683Z"
+              },
+              {
+                "defaultValue": 678157971.7851627,
+                "createdAt": "2024-02-03T22:07:53.013516Z"
+              },
+              {
+                "defaultValue": 677976626.2603528,
+                "createdAt": "2024-02-04T22:07:48.698003Z"
+              },
+              {
+                "defaultValue": 677913687.1449851,
+                "createdAt": "2024-02-05T22:08:41.715917Z"
+              },
+              {
+                "defaultValue": 678316772.297391,
+                "createdAt": "2024-02-06T22:08:08.540009Z"
+              },
+              {
+                "defaultValue": 678157804.7774758,
+                "createdAt": "2024-02-07T22:04:47.686705Z"
+              },
+              {
+                "defaultValue": 678625106.8505392,
+                "createdAt": "2024-02-08T22:04:56.738749Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-09T08:08:02.878132Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-10T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-11T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-12T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-13T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-14T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-15T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-16T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-17T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-18T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-19T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-20T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-21T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-22T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-23T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-24T00:00:00Z"
+              },
+              {
+                "defaultValue": 678593598.1214832,
+                "createdAt": "2024-02-25T00:00:00Z"
+              },
+              {
+                "defaultValue": 685832889.2657392,
+                "createdAt": "2024-02-26T18:21:04.565645Z"
+              },
+              {
+                "defaultValue": 684638682.5713732,
+                "createdAt": "2024-02-27T22:05:53.174609Z"
+              },
+              {
+                "defaultValue": 683662269.0528833,
+                "createdAt": "2024-02-28T22:05:59.620252Z"
+              },
+              {
+                "defaultValue": 678517900.4827694,
+                "createdAt": "2024-02-29T22:05:24.363564Z"
+              },
+              {
+                "defaultValue": 677910105.7486591,
+                "createdAt": "2024-03-01T22:05:59.731496Z"
+              },
+              {
+                "defaultValue": 683995835.9876161,
+                "createdAt": "2024-03-02T22:05:31.164838Z"
+              },
+              {
+                "defaultValue": 683997135.834432,
+                "createdAt": "2024-03-03T22:05:23.124933Z"
+              },
+              {
+                "defaultValue": 683088819.4415077,
+                "createdAt": "2024-03-04T22:05:18.306415Z"
+              },
+              {
+                "defaultValue": 674632021.3452969,
+                "createdAt": "2024-03-05T22:05:36.559327Z"
+              },
+              {
+                "defaultValue": 681700739.3330932,
+                "createdAt": "2024-03-06T22:05:07.884178Z"
+              },
+              {
+                "defaultValue": 682204259.2224795,
+                "createdAt": "2024-03-07T22:06:18.658308Z"
+              },
+              {
+                "defaultValue": 682310341.9495598,
+                "createdAt": "2024-03-08T22:05:34.550971Z"
+              },
+              {
+                "defaultValue": 682332422.2748581,
+                "createdAt": "2024-03-09T22:05:03.98116Z"
+              },
+              {
+                "defaultValue": 682610891.036858,
+                "createdAt": "2024-03-10T22:04:51.003615Z"
+              },
+              {
+                "defaultValue": 682810052.8826156,
+                "createdAt": "2024-03-11T20:06:49.480493Z"
+              },
+              {
+                "defaultValue": 682634457.2621168,
+                "createdAt": "2024-03-12T22:06:00.553572Z"
+              },
+              {
+                "defaultValue": 682927391.1054178,
+                "createdAt": "2024-03-13T22:05:50.089498Z"
+              },
+              {
+                "defaultValue": 682819890.0503166,
+                "createdAt": "2024-03-14T22:06:23.904917Z"
+              },
+              {
+                "defaultValue": 682977120.0835057,
+                "createdAt": "2024-03-15T22:06:12.978268Z"
+              },
+              {
+                "defaultValue": 683093281.1910104,
+                "createdAt": "2024-03-16T22:05:29.076685Z"
+              },
+              {
+                "defaultValue": 681837307.8624312,
+                "createdAt": "2024-03-17T22:07:00.207409Z"
+              },
+              {
+                "defaultValue": 680570608.0085267,
+                "createdAt": "2024-03-18T22:07:10.67791Z"
+              },
+              {
+                "defaultValue": 677395435.6245918,
+                "createdAt": "2024-03-19T22:05:23.95934Z"
+              },
+              {
+                "defaultValue": 677118968.7742556,
+                "createdAt": "2024-03-20T22:06:49.436514Z"
+              },
+              {
+                "defaultValue": 676081413.0607048,
+                "createdAt": "2024-03-21T22:05:29.292501Z"
+              },
+              {
+                "defaultValue": 676081695.5878165,
+                "createdAt": "2024-03-22T22:06:00.728386Z"
+              },
+              {
+                "defaultValue": 676196723.9105753,
+                "createdAt": "2024-03-23T22:06:48.756922Z"
+              },
+              {
+                "defaultValue": 676338020.9955442,
+                "createdAt": "2024-03-24T22:06:28.813891Z"
+              },
+              {
+                "defaultValue": 678349056.2360522,
+                "createdAt": "2024-03-25T22:05:34.332553Z"
+              },
+              {
+                "defaultValue": 676300257.2930033,
+                "createdAt": "2024-03-26T22:06:43.398087Z"
+              },
+              {
+                "defaultValue": 676726757.3880892,
+                "createdAt": "2024-03-27T22:05:29.897538Z"
+              },
+              {
+                "defaultValue": 677025613.2217774,
+                "createdAt": "2024-03-28T22:08:03.544167Z"
+              },
+              {
+                "defaultValue": 678029028.8322703,
+                "createdAt": "2024-03-29T22:08:00.561934Z"
+              },
+              {
+                "defaultValue": 678047052.8454827,
+                "createdAt": "2024-03-30T22:06:09.543331Z"
+              },
+              {
+                "defaultValue": 678062106.3166498,
+                "createdAt": "2024-03-31T22:07:40.456548Z"
+              },
+              {
+                "defaultValue": 678045895.8454534,
+                "createdAt": "2024-04-01T22:06:28.759058Z"
+              },
+              {
+                "defaultValue": 677813150.262736,
+                "createdAt": "2024-04-02T22:07:50.349565Z"
+              },
+              {
+                "defaultValue": 677808525.008086,
+                "createdAt": "2024-04-03T22:07:36.480764Z"
+              },
+              {
+                "defaultValue": 677909747.4192122,
+                "createdAt": "2024-04-04T22:07:15.464189Z"
+              },
+              {
+                "defaultValue": 679326686.2425857,
+                "createdAt": "2024-04-05T22:08:06.657739Z"
+              },
+              {
+                "defaultValue": 679717624.9420567,
+                "createdAt": "2024-04-06T22:07:36.55079Z"
+              },
+              {
+                "defaultValue": 679594656.2735002,
+                "createdAt": "2024-04-07T22:06:36.607105Z"
+              },
+              {
+                "defaultValue": 679473172.3228577,
+                "createdAt": "2024-04-08T22:06:27.841803Z"
+              },
+              {
+                "defaultValue": 679662313.0054207,
+                "createdAt": "2024-04-09T22:05:27.393256Z"
+              },
+              {
+                "defaultValue": 679509264.9196188,
+                "createdAt": "2024-04-10T22:06:16.172469Z"
+              },
+              {
+                "defaultValue": 679685412.8807421,
+                "createdAt": "2024-04-11T22:05:32.814207Z"
+              },
+              {
+                "defaultValue": 679236598.4241356,
+                "createdAt": "2024-04-12T22:06:32.09555Z"
+              },
+              {
+                "defaultValue": 679328019.4250736,
+                "createdAt": "2024-04-13T22:05:26.197709Z"
+              },
+              {
+                "defaultValue": 679079099.892188,
+                "createdAt": "2024-04-14T22:06:33.362728Z"
+              },
+              {
+                "defaultValue": 678087250.4516815,
+                "createdAt": "2024-04-15T22:06:22.51499Z"
+              },
+              {
+                "defaultValue": 678186214.7398992,
+                "createdAt": "2024-04-16T22:06:45.515446Z"
+              },
+              {
+                "defaultValue": 677862869.2441021,
+                "createdAt": "2024-04-17T22:07:05.884712Z"
+              },
+              {
+                "defaultValue": 679687167.1939045,
+                "createdAt": "2024-04-18T22:06:01.221414Z"
+              },
+              {
+                "defaultValue": 679423567.1861053,
+                "createdAt": "2024-04-19T22:05:12.07137Z"
+              },
+              {
+                "defaultValue": 679968661.9827555,
+                "createdAt": "2024-04-20T22:05:43.400693Z"
+              },
+              {
+                "defaultValue": 679978878.0697547,
+                "createdAt": "2024-04-21T22:06:02.764002Z"
+              },
+              {
+                "defaultValue": 684037838.7865212,
+                "createdAt": "2024-04-22T22:06:34.128309Z"
+              },
+              {
+                "defaultValue": 684036754.816883,
+                "createdAt": "2024-04-23T22:06:08.534239Z"
+              },
+              {
+                "defaultValue": 684247249.3636461,
+                "createdAt": "2024-04-24T22:05:36.7941Z"
+              },
+              {
+                "defaultValue": 684350479.71115,
+                "createdAt": "2024-04-25T22:05:29.967924Z"
+              },
+              {
+                "defaultValue": 683887577.8581651,
+                "createdAt": "2024-04-26T22:08:39.877621Z"
+              },
+              {
+                "defaultValue": 683989240.0575846,
+                "createdAt": "2024-04-27T22:06:24.103307Z"
+              },
+              {
+                "defaultValue": 684651119.1007161,
+                "createdAt": "2024-04-28T22:06:53.728299Z"
+              },
+              {
+                "defaultValue": 684450262.2109703,
+                "createdAt": "2024-04-29T22:06:22.620855Z"
+              },
+              {
+                "defaultValue": 684527227.9286219,
+                "createdAt": "2024-04-30T22:05:37.002991Z"
+              },
+              {
+                "defaultValue": 684452550.7839794,
+                "createdAt": "2024-05-01T22:07:37.096845Z"
+              },
+              {
+                "defaultValue": 684720672.6906139,
+                "createdAt": "2024-05-02T22:05:35.314336Z"
+              },
+              {
+                "defaultValue": 684461176.0475569,
+                "createdAt": "2024-05-03T22:07:13.068211Z"
+              },
+              {
+                "defaultValue": 684690940.1516216,
+                "createdAt": "2024-05-04T22:06:10.645951Z"
+              },
+              {
+                "defaultValue": 684953231.3181298,
+                "createdAt": "2024-05-05T22:07:08.818495Z"
+              },
+              {
+                "defaultValue": 685079105.20937,
+                "createdAt": "2024-05-06T22:06:46.394179Z"
+              },
+              {
+                "defaultValue": 685589977.7348778,
+                "createdAt": "2024-05-07T22:06:15.683928Z"
+              },
+              {
+                "defaultValue": 685875561.9633794,
+                "createdAt": "2024-05-08T22:07:14.90354Z"
+              },
+              {
+                "defaultValue": 685752294.6154339,
+                "createdAt": "2024-05-09T22:05:04.626742Z"
+              },
+              {
+                "defaultValue": 685396759.038881,
+                "createdAt": "2024-05-10T22:07:30.124077Z"
+              },
+              {
+                "defaultValue": 685612084.1255777,
+                "createdAt": "2024-05-11T22:06:52.169219Z"
+              },
+              {
+                "defaultValue": 685688148.0055953,
+                "createdAt": "2024-05-12T22:05:32.069713Z"
+              },
+              {
+                "defaultValue": 685690396.4993832,
+                "createdAt": "2024-05-13T22:06:59.895157Z"
+              },
+              {
+                "defaultValue": 685679795.6458199,
+                "createdAt": "2024-05-14T22:07:51.886332Z"
+              },
+              {
+                "defaultValue": 685737089.954048,
+                "createdAt": "2024-05-15T22:06:58.250081Z"
+              },
+              {
+                "defaultValue": 685797554.8065246,
+                "createdAt": "2024-05-16T22:05:31.529496Z"
+              },
+              {
+                "defaultValue": 685592046.0184535,
+                "createdAt": "2024-05-17T22:06:05.244292Z"
+              },
+              {
+                "defaultValue": 685708062.7958537,
+                "createdAt": "2024-05-18T22:05:50.8599Z"
+              },
+              {
+                "defaultValue": 685857706.1815464,
+                "createdAt": "2024-05-19T22:07:24.065234Z"
+              },
+              {
+                "defaultValue": 685493362.1292244,
+                "createdAt": "2024-05-20T22:05:26.819006Z"
+              },
+              {
+                "defaultValue": 685518053.4700596,
+                "createdAt": "2024-05-21T22:06:57.768658Z"
+              },
+              {
+                "defaultValue": 685277799.8733106,
+                "createdAt": "2024-05-22T22:05:21.262804Z"
+              },
+              {
+                "defaultValue": 685124795.9959406,
+                "createdAt": "2024-05-23T22:05:48.061895Z"
+              },
+              {
+                "defaultValue": 684731583.1745957,
+                "createdAt": "2024-05-24T22:07:33.5299Z"
+              },
+              {
+                "defaultValue": 684722777.3093356,
+                "createdAt": "2024-05-25T22:05:27.729472Z"
+              },
+              {
+                "defaultValue": 684891656.0954187,
+                "createdAt": "2024-05-26T22:05:30.874769Z"
+              },
+              {
+                "defaultValue": 685141896.2659498,
+                "createdAt": "2024-05-27T22:07:19.453684Z"
+              },
+              {
+                "defaultValue": 685251851.7028812,
+                "createdAt": "2024-05-28T22:07:20.112143Z"
+              },
+              {
+                "defaultValue": 685084713.4704632,
+                "createdAt": "2024-05-29T22:07:33.80039Z"
+              },
+              {
+                "defaultValue": 685204750.8398438,
+                "createdAt": "2024-05-30T22:06:33.56667Z"
+              },
+              {
+                "defaultValue": 684824771.7276545,
+                "createdAt": "2024-05-31T22:05:07.196301Z"
+              },
+              {
+                "defaultValue": 684130563.841266,
+                "createdAt": "2024-06-01T22:06:25.783165Z"
+              },
+              {
+                "defaultValue": 684251295.4393057,
+                "createdAt": "2024-06-02T22:05:23.923799Z"
+              },
+              {
+                "defaultValue": 685259544.9449607,
+                "createdAt": "2024-06-03T22:08:03.831602Z"
+              },
+              {
+                "defaultValue": 684965056.2092196,
+                "createdAt": "2024-06-04T22:05:44.96766Z"
+              },
+              {
+                "defaultValue": 685320238.1487937,
+                "createdAt": "2024-06-05T22:04:42.068596Z"
+              },
+              {
+                "defaultValue": 685446960.6305195,
+                "createdAt": "2024-06-06T22:04:28.717604Z"
+              },
+              {
+                "defaultValue": 684756944.6497414,
+                "createdAt": "2024-06-07T22:04:45.040996Z"
+              },
+              {
+                "defaultValue": 685200340.5479306,
+                "createdAt": "2024-06-08T22:05:08.738555Z"
+              },
+              {
+                "defaultValue": 685380718.3906912,
+                "createdAt": "2024-06-09T22:04:23.372395Z"
+              },
+              {
+                "defaultValue": 685530300.3605423,
+                "createdAt": "2024-06-10T22:05:42.7573Z"
+              },
+              {
+                "defaultValue": 684977581.947011,
+                "createdAt": "2024-06-11T22:05:37.943271Z"
+              },
+              {
+                "defaultValue": 684907254.9693495,
+                "createdAt": "2024-06-12T22:05:50.31474Z"
+              },
+              {
+                "defaultValue": 685092026.0651212,
+                "createdAt": "2024-06-13T22:05:57.083461Z"
+              },
+              {
+                "defaultValue": 684543768.4365113,
+                "createdAt": "2024-06-14T22:05:46.863522Z"
+              },
+              {
+                "defaultValue": 684607611.8872938,
+                "createdAt": "2024-06-15T22:05:25.944223Z"
+              },
+              {
+                "defaultValue": 684861924.7168915,
+                "createdAt": "2024-06-16T22:05:39.517902Z"
+              },
+              {
+                "defaultValue": 684955176.6318805,
+                "createdAt": "2024-06-17T22:05:43.184969Z"
+              },
+              {
+                "defaultValue": 684792368.8371948,
+                "createdAt": "2024-06-18T22:04:51.801137Z"
+              },
+              {
+                "defaultValue": 685082711.1265634,
+                "createdAt": "2024-06-19T22:04:40.754627Z"
+              },
+              {
+                "defaultValue": 684943058.991428,
+                "createdAt": "2024-06-20T22:04:33.69297Z"
+              },
+              {
+                "defaultValue": 687886311.1760098,
+                "createdAt": "2024-06-21T16:04:56.327182Z"
+              },
+              {
+                "defaultValue": 687886311.1760098,
+                "createdAt": "2024-06-22T00:00:00Z"
+              },
+              {
+                "defaultValue": 686834614.8709491,
+                "createdAt": "2024-06-23T22:20:57.155397Z"
+              },
+              {
+                "defaultValue": 690174392.2507747,
+                "createdAt": "2024-06-24T16:05:53.651592Z"
+              },
+              {
+                "defaultValue": 687668898.3917738,
+                "createdAt": "2024-06-25T22:54:19.565983Z"
+              },
+              {
+                "defaultValue": 690130970.6563734,
+                "createdAt": "2024-06-26T21:39:19.516235Z"
+              },
+              {
+                "defaultValue": 687531284.731609,
+                "createdAt": "2024-06-27T22:04:25.456022Z"
+              },
+              {
+                "defaultValue": 689885607.6493444,
+                "createdAt": "2024-06-28T22:04:24.469148Z"
+              },
+              {
+                "defaultValue": 687499576.7273529,
+                "createdAt": "2024-06-29T22:03:59.155962Z"
+              },
+              {
+                "defaultValue": 687750778.5193743,
+                "createdAt": "2024-06-30T22:04:13.65812Z"
+              },
+              {
+                "defaultValue": 672322592.1946076,
+                "createdAt": "2024-07-01T22:04:32.295829Z"
+              },
+              {
+                "defaultValue": 672485382.5445907,
+                "createdAt": "2024-07-02T22:05:52.480337Z"
+              },
+              {
+                "defaultValue": 672321039.8523235,
+                "createdAt": "2024-07-03T22:04:05.739145Z"
+              },
+              {
+                "defaultValue": 672296887.5383437,
+                "createdAt": "2024-07-04T22:03:55.158399Z"
+              },
+              {
+                "defaultValue": 672832424.6415929,
+                "createdAt": "2024-07-05T22:04:12.593315Z"
+              },
+              {
+                "defaultValue": 671766097.0304242,
+                "createdAt": "2024-07-06T22:04:03.6504Z"
+              },
+              {
+                "defaultValue": 671524499.2760795,
+                "createdAt": "2024-07-07T22:03:32.146545Z"
+              },
+              {
+                "defaultValue": 674112545.5507128,
+                "createdAt": "2024-07-08T22:03:53.124559Z"
+              },
+              {
+                "defaultValue": 674372959.7567471,
+                "createdAt": "2024-07-09T22:04:05.977721Z"
+              },
+              {
+                "defaultValue": 673608018.1477846,
+                "createdAt": "2024-07-10T22:03:58.308958Z"
+              },
+              {
+                "defaultValue": 670615157.3660151,
+                "createdAt": "2024-07-11T22:03:58.5374Z"
+              },
+              {
+                "defaultValue": 672950105.6713319,
+                "createdAt": "2024-07-12T22:04:41.114421Z"
+              },
+              {
+                "defaultValue": 670785699.9209485,
+                "createdAt": "2024-07-13T22:03:58.913601Z"
+              },
+              {
+                "defaultValue": 670270071.1328777,
+                "createdAt": "2024-07-14T22:03:51.000653Z"
+              },
+              {
+                "defaultValue": 670338799.3994071,
+                "createdAt": "2024-07-15T22:04:11.211048Z"
+              },
+              {
+                "defaultValue": 670520752.4136621,
+                "createdAt": "2024-07-16T22:04:08.801751Z"
+              },
+              {
+                "defaultValue": 670532572.6884162,
+                "createdAt": "2024-07-17T20:03:54.976868Z"
+              },
+              {
+                "defaultValue": 668886504.0889549,
+                "createdAt": "2024-07-18T22:04:06.627501Z"
+              },
+              {
+                "defaultValue": 667918200.0708542,
+                "createdAt": "2024-07-19T22:03:59.083024Z"
+              },
+              {
+                "defaultValue": 670305661.2323934,
+                "createdAt": "2024-07-20T22:03:55.720696Z"
+              },
+              {
+                "defaultValue": 670547911.2013241,
+                "createdAt": "2024-07-21T20:21:52.657062Z"
+              },
+              {
+                "defaultValue": 668014950.2740126,
+                "createdAt": "2024-07-22T22:04:04.834769Z"
+              },
+              {
+                "defaultValue": 668153834.190909,
+                "createdAt": "2024-07-23T22:04:13.341629Z"
+              },
+              {
+                "defaultValue": 670650052.2628428,
+                "createdAt": "2024-07-24T22:04:10.547332Z"
+              },
+              {
+                "defaultValue": 668723610.0825304,
+                "createdAt": "2024-07-25T18:04:18.525289Z"
+              },
+              {
+                "defaultValue": 671250260.456537,
+                "createdAt": "2024-07-26T22:04:06.567099Z"
+              },
+              {
+                "defaultValue": 669909969.5563449,
+                "createdAt": "2024-07-27T22:04:09.555836Z"
+              },
+              {
+                "defaultValue": 670074423.9110378,
+                "createdAt": "2024-07-28T22:04:03.575896Z"
+              },
+              {
+                "defaultValue": 668530978.6829659,
+                "createdAt": "2024-07-29T22:03:57.032108Z"
+              },
+              {
+                "defaultValue": 668341036.1957545,
+                "createdAt": "2024-07-30T22:04:13.539481Z"
+              },
+              {
+                "defaultValue": 671031656.4386451,
+                "createdAt": "2024-07-31T22:04:01.829135Z"
+              },
+              {
+                "defaultValue": 671103971.77662,
+                "createdAt": "2024-08-01T22:05:47.28615Z"
+              },
+              {
+                "defaultValue": 675250001.8886002,
+                "createdAt": "2024-08-02T22:03:44.736229Z"
+              },
+              {
+                "defaultValue": 667907098.556719,
+                "createdAt": "2024-08-03T22:03:53.979909Z"
+              },
+              {
+                "defaultValue": 672463226.6556634,
+                "createdAt": "2024-08-04T20:03:54.268055Z"
+              },
+              {
+                "defaultValue": 672666163.5881776,
+                "createdAt": "2024-08-05T22:03:47.978246Z"
+              },
+              {
+                "defaultValue": 670849154.4677194,
+                "createdAt": "2024-08-06T22:03:58.501928Z"
+              },
+              {
+                "defaultValue": 671565245.1252521,
+                "createdAt": "2024-08-07T22:21:41.796905Z"
+              },
+              {
+                "defaultValue": 671587609.3832176,
+                "createdAt": "2024-08-08T22:04:03.65562Z"
+              },
+              {
+                "defaultValue": 674365426.2588079,
+                "createdAt": "2024-08-09T22:03:55.277717Z"
+              },
+              {
+                "defaultValue": 671430456.5426387,
+                "createdAt": "2024-08-10T22:03:53.100619Z"
+              },
+              {
+                "defaultValue": 671387529.1545769,
+                "createdAt": "2024-08-11T22:03:40.653892Z"
+              },
+              {
+                "defaultValue": 671644505.0499109,
+                "createdAt": "2024-08-12T20:04:00.936351Z"
+              },
+              {
+                "defaultValue": 671953784.1029685,
+                "createdAt": "2024-08-13T18:04:14.754363Z"
+              },
+              {
+                "defaultValue": 671490146.8258822,
+                "createdAt": "2024-08-14T16:04:50.325155Z"
+              },
+              {
+                "defaultValue": 674136413.2912146,
+                "createdAt": "2024-08-15T22:23:14.202004Z"
+              },
+              {
+                "defaultValue": 672695699.6721475,
+                "createdAt": "2024-08-16T22:04:21.816135Z"
+              },
+              {
+                "defaultValue": 675397214.4427438,
+                "createdAt": "2024-08-17T22:04:13.611045Z"
+              },
+              {
+                "defaultValue": 675494125.8717598,
+                "createdAt": "2024-08-18T22:03:46.728336Z"
+              },
+              {
+                "defaultValue": 673331462.1785135,
+                "createdAt": "2024-08-19T22:04:23.578174Z"
+              },
+              {
+                "defaultValue": 673648759.2443212,
+                "createdAt": "2024-08-20T22:04:09.768276Z"
+              },
+              {
+                "defaultValue": 673842855.9592773,
+                "createdAt": "2024-08-21T22:03:58.118775Z"
+              },
+              {
+                "defaultValue": 676503703.3075761,
+                "createdAt": "2024-08-22T22:04:07.254225Z"
+              },
+              {
+                "defaultValue": 676657036.1339718,
+                "createdAt": "2024-08-23T22:03:50.584251Z"
+              },
+              {
+                "defaultValue": 676808342.0821462,
+                "createdAt": "2024-08-24T22:04:04.828387Z"
+              },
+              {
+                "defaultValue": 677240170.068032,
+                "createdAt": "2024-08-25T22:03:54.758516Z"
+              },
+              {
+                "defaultValue": 677374324.029528,
+                "createdAt": "2024-08-26T22:04:06.591445Z"
+              },
+              {
+                "defaultValue": 677343231.2174057,
+                "createdAt": "2024-08-27T22:03:54.191341Z"
+              },
+              {
+                "defaultValue": 677430614.4081328,
+                "createdAt": "2024-08-28T22:03:57.053532Z"
+              },
+              {
+                "defaultValue": 677606525.3722001,
+                "createdAt": "2024-08-29T22:04:10.785882Z"
+              },
+              {
+                "defaultValue": 677627652.6486906,
+                "createdAt": "2024-08-30T22:04:09.886926Z"
+              },
+              {
+                "defaultValue": 677737009.9449877,
+                "createdAt": "2024-08-31T22:04:03.201023Z"
+              },
+              {
+                "defaultValue": 677821687.9255154,
+                "createdAt": "2024-09-01T22:04:10.4514Z"
+              },
+              {
+                "defaultValue": 678310477.3243028,
+                "createdAt": "2024-09-02T22:05:55.591298Z"
+              },
+              {
+                "defaultValue": 678404967.8012971,
+                "createdAt": "2024-09-03T22:04:04.181424Z"
+              },
+              {
+                "defaultValue": 678906193.3737284,
+                "createdAt": "2024-09-04T22:05:22.312332Z"
+              },
+              {
+                "defaultValue": 679024153.6025233,
+                "createdAt": "2024-09-05T22:04:22.44139Z"
+              },
+              {
+                "defaultValue": 679441993.2102227,
+                "createdAt": "2024-09-06T22:04:09.413307Z"
+              },
+              {
+                "defaultValue": 679694173.7049845,
+                "createdAt": "2024-09-07T22:08:56.187082Z"
+              },
+              {
+                "defaultValue": 680301319.2031474,
+                "createdAt": "2024-09-08T22:04:21.504499Z"
+              },
+              {
+                "defaultValue": 680745879.3857039,
+                "createdAt": "2024-09-09T22:04:02.021335Z"
+              },
+              {
+                "defaultValue": 680820593.0273703,
+                "createdAt": "2024-09-10T22:04:17.848072Z"
+              },
+              {
+                "defaultValue": 679225954.6496919,
+                "createdAt": "2024-09-11T22:04:09.746391Z"
+              },
+              {
+                "defaultValue": 680703906.9029287,
+                "createdAt": "2024-09-12T22:06:04.711385Z"
+              },
+              {
+                "defaultValue": 680373439.2674859,
+                "createdAt": "2024-09-13T22:04:18.748609Z"
+              }
+          ]
+        }
+      ]
+    }
+  }
